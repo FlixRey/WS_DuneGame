@@ -5780,3 +5780,345 @@ Scale3D: 1.000000 1.000000 1.000000
 [2024.03.14-21.24.22:908][401]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/Falaises/Falaises_Textures/Rock_Large_Auto4
 [2024.03.14-21.24.22:908][401]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Rock_Large_Auto43C32DF1D450DDF6505DC2C83320C03C6.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/Meshes/Falaises/Falaises_Textures/Rock_Large_Auto4.uasset'
 [2024.03.14-21.24.22:908][401]LogFileHelpers: Auto-saving content packages took 0.157
+[2024.03.14-21.24.39:355][451]LogEditorViewport: Clicking Background
+[2024.03.14-21.26.10:758][ 56]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.03.14-21.26.11:657][152]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.14-21.26.11:671][152]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.14-21.26.11:677][153]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.14-21.26.14:093][440]LogContentBrowser: Attempting asset rename: NewFolder -> Pont
+[2024.03.14-21.26.14:093][440]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.14-21.26.31:809][ 86]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\felix\Desktop\Wks_JeuDune\Pont\Pont_HP_v1.fbx)
+[2024.03.14-21.26.31:813][ 86]LogFbx: Loading FBX Scene from C:\Users\felix\Desktop\Wks_JeuDune\Pont\Pont_HP_v1.fbx
+[2024.03.14-21.26.31:818][ 86]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.14-21.26.39:453][ 86]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.14-21.26.39:499][ 86]LogStaticMesh: Display: Building static mesh Pont_HP_v1_planche_high...
+[2024.03.14-21.26.39:517][ 86]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Pont/Pont_HP_v1_planche_high.Pont_HP_v1_planche_high
+[2024.03.14-21.26.39:527][ 86]LogStaticMesh: Display: Building static mesh Pont_HP_v1_pilier_high...
+[2024.03.14-21.26.39:533][ 86]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Pont/Pont_HP_v1_pilier_high.Pont_HP_v1_pilier_high
+[2024.03.14-21.26.39:542][ 86]LogStaticMesh: Display: Building static mesh Pont_HP_v1_tenue_pont_high...
+[2024.03.14-21.26.39:546][ 86]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Pont/Pont_HP_v1_tenue_pont_high.Pont_HP_v1_tenue_pont_high
+[2024.03.14-21.26.39:554][ 86]LogStaticMesh: Display: Building static mesh Pont_HP_v1_pilier_high_001...
+[2024.03.14-21.26.39:561][ 86]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Pont/Pont_HP_v1_pilier_high_001.Pont_HP_v1_pilier_high_001
+[2024.03.14-21.26.39:575][ 86]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.03.14-21.26.39:719][ 86]LogAutomationController: Ignoring very large delta of 7.92 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.14-21.26.43:365][459]LogSlate: Window 'Content Browser' being destroyed
+[2024.03.14-21.26.43:375][459]LogSlate: Window 'Content Browser' being destroyed
+[2024.03.14-21.26.45:259][670]LogSlate: Window 'Message Log' being destroyed
+[2024.03.14-21.26.45:269][670]LogSlate: Window 'Message Log' being destroyed
+[2024.03.14-21.26.51:224][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.03.14-21.26.51:969][181]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.14-21.26.51:989][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.03.14-21.26.51:999][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.03.14-21.26.52:009][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.03.14-21.27.21:596][724]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\felix\Desktop\Wks_JeuDune\Pont\Pont_HP_v2.fbx)
+[2024.03.14-21.27.21:600][724]LogFbx: Loading FBX Scene from C:\Users\felix\Desktop\Wks_JeuDune\Pont\Pont_HP_v2.fbx
+[2024.03.14-21.27.21:604][724]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.14-21.27.23:831][724]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.14-21.27.23:882][724]LogStaticMesh: Display: Building static mesh Pont_HP_v2...
+[2024.03.14-21.27.23:907][724]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Pont/Pont_HP_v2.Pont_HP_v2
+[2024.03.14-21.27.23:922][724]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.03.14-21.27.24:053][724]LogAutomationController: Ignoring very large delta of 2.46 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.14-21.27.26:348][953]LogSlate: Window 'Content Browser' being destroyed
+[2024.03.14-21.27.26:359][953]LogSlate: Window 'Content Browser' being destroyed
+[2024.03.14-21.27.27:832][128]LogSlate: Window 'Message Log' being destroyed
+[2024.03.14-21.27.27:843][128]LogSlate: Window 'Message Log' being destroyed
+[2024.03.14-21.27.29:606][314]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Pont/Pont_HP_v2.Pont_HP_v2
+[2024.03.14-21.27.29:606][314]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Pont/Pont_HP_v2.Pont_HP_v2
+[2024.03.14-21.27.29:606][314]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/Pont/Pont_HP_v2.Pont_HP_v2 as actor: StaticMeshActor /Game/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_2
+[2024.03.14-21.27.30:094][370]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Pont/Pont_HP_v2.Pont_HP_v2
+[2024.03.14-21.27.30:094][370]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Pont/Pont_HP_v2.Pont_HP_v2
+[2024.03.14-21.27.30:096][370]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/Pont/Pont_HP_v2.Pont_HP_v2 as actor: StaticMeshActor /Game/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_UAID_74563C6DEDB776E201_1671153623
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 0 (Found bundle for host: 0x7f135170180 [serially])
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 6 (Closing connection)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC0C5A01-4994-859D-6890-54A3CC3BF56B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=e92cdcf642bde5f2608c24bd6d684a31%7C78afdb90ac8647e6a52daa91913c8f61%7Cf06beeaa-581b-4fa6-9988-23e347fd4d57&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 9 (  Trying 52.0.136.237:443...)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (52.0.136.237) port 443)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.14-21.27.42:513][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.14-21.27.42:514][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 25 (Server certificate:)
+[2024.03.14-21.27.42:514][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.14-21.27.42:514][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.14-21.27.42:514][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.14-21.27.42:514][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.14-21.27.42:514][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.14-21.27.42:514][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.14-21.27.42:514][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.14-21.27.42:514][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.14-21.27.42:514][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 34 (Closing connection)
+[2024.03.14-21.27.42:514][832]LogHttp: Warning: 000007F2709FC300: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.14-21.27.42:514][832]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC0C5A01-4994-859D-6890-54A3CC3BF56B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=e92cdcf642bde5f2608c24bd6d684a31%7C78afdb90ac8647e6a52daa91913c8f61%7Cf06beeaa-581b-4fa6-9988-23e347fd4d57&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.14-21.27.50:927][687]LogEditorViewport: Clicking Background
+[2024.03.14-21.28.04:724][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.14-21.28.04:792][834]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/TestMap/5/7P/38BHPFFTWFEFSBZW4QWWSR
+[2024.03.14-21.28.04:792][834]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/38BHPFFTWFEFSBZW4QWWSR85ED286A4CF631E39106489E9E93F2C0.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/__ExternalActors__/Maps/TestMap/5/7P/38BHPFFTWFEFSBZW4QWWSR.uasset'
+[2024.03.14-21.28.04:797][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 3.74 sec)
+[2024.03.14-21.28.04:798][834]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_74563C6DEDB776E201_1671153623
+[2024.03.14-21.28.04:798][834]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_UAID_74563C6DEDB776E201_1671153623
+[2024.03.14-21.28.13:653][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.14-21.28.13:690][600]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/TestMap/E/6B/ZEKZXNV00LWKDCYF0DBY8N
+[2024.03.14-21.28.13:690][600]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/ZEKZXNV00LWKDCYF0DBY8N4F330E5E47033C2CAFEE5B9A53ED9889.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/__ExternalActors__/Maps/TestMap/E/6B/ZEKZXNV00LWKDCYF0DBY8N.uasset'
+[2024.03.14-21.28.13:695][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 3.78 sec)
+[2024.03.14-21.28.13:738][600]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_DC4A3E73C91F61E201_1627636888
+[2024.03.14-21.28.13:738][600]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_UAID_DC4A3E73C91F61E201_1627636888
+[2024.03.14-21.28.22:124][285]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.14-21.28.22:170][285]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/TestMap/5/7P/38BHPFFTWFEFSBZW4QWWSR
+[2024.03.14-21.28.22:170][285]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/38BHPFFTWFEFSBZW4QWWSR9D87A72E47F67ACEC7F409AE55280052.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/__ExternalActors__/Maps/TestMap/5/7P/38BHPFFTWFEFSBZW4QWWSR.uasset'
+[2024.03.14-21.28.22:174][285]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 3.83 sec)
+[2024.03.14-21.28.22:175][285]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_74563C6DEDB776E201_1671153623
+[2024.03.14-21.28.22:175][285]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_UAID_74563C6DEDB776E201_1671153623
+[2024.03.14-21.28.25:693][554]LogEditorViewport: Clicking Background
+[2024.03.14-21.28.35:982][154]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Pont/Pont_HP_v2.Pont_HP_v2
+[2024.03.14-21.28.36:020][154]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.14-21.28.36:020][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.14-21.28.36:346][154]LogViewport: Scene viewport resized to 910x533, mode Windowed.
+[2024.03.14-21.28.47:003][822]LogSlate: Window 'Pont_HP_v2' being destroyed
+[2024.03.14-21.28.47:021][822]LogSlate: Window 'Pont_HP_v2' being destroyed
+[2024.03.14-21.28.47:039][822]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.03.14-21.28.47:039][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.14-21.28.56:965][741]LogEditorViewport: Clicking Background
+[2024.03.14-21.32.20:438][740]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.14-21.32.20:452][740]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.14-21.32.20:458][741]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.14-21.32.23:068][ 34]LogContentBrowser: Attempting asset rename: NewFolder -> Temple
+[2024.03.14-21.32.23:069][ 34]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.14-21.32.42:665][382]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\felix\Desktop\Wks_JeuDune\Temple\Temple_LP_v1.fbx)
+[2024.03.14-21.32.42:669][382]LogFbx: Loading FBX Scene from C:\Users\felix\Desktop\Wks_JeuDune\Temple\Temple_LP_v1.fbx
+[2024.03.14-21.32.42:672][382]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.14-21.32.53:660][382]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.14-21.32.53:775][382]LogFbx: Display: Triangulating static mesh temple_toit
+[2024.03.14-21.32.53:793][382]LogStaticMesh: Display: Building static mesh Temple_LP_v1...
+[2024.03.14-21.32.53:814][382]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Temple/Temple_LP_v1.Temple_LP_v1
+[2024.03.14-21.32.53:827][382]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.03.14-21.32.53:961][382]LogAutomationController: Ignoring very large delta of 11.30 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: ================================================
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: Total job queries 370, among them cache hits 272 (73.51%)
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: Tracking 94 distinct input hashes that result in 66 distinct outputs (70.21%)
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: RAM used: 2,02 MiB of 1,60 GiB budget. Usage: 0.12%
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: Shaders Compiled: 40
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: Jobs assigned 40, completed 40 (100%)
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: Average time worker was idle: 1100.19 s
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: Job execution time: average 0.30 s, max 0.47 s
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: Job life time (pending + execution): average 0.37 s, max 0.57
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: Shader code size: average 34,722 KiB, min 3,559 KiB, max 60,766 KiB
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.92 s
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: Jobs were issued in 40 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: Average processing rate: 10.21 jobs/sec
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: Total thread time: 6,395 s
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: Total thread preprocess time: 0,789 s
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: Percentage time preprocessing: 12.34%
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: Effective parallelization: 1.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.98% of total time (compiled    8 times, average 0.17 sec, max 0.20 sec, min 0.13 sec)
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.09% of total time (compiled    8 times, average 0.16 sec, max 0.20 sec, min 0.14 sec)
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.43% of total time (compiled    3 times, average 0.16 sec, max 0.17 sec, min 0.15 sec)
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display:                                                  FHitProxyVS - 4.73% of total time (compiled    2 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 3.91% of total time (compiled    3 times, average 0.08 sec, max 0.10 sec, min 0.07 sec)
+[2024.03.14-21.32.54:088][383]LogShaderCompilers: Display: ================================================
+[2024.03.14-21.32.56:905][654]LogSlate: Window 'Content Browser' being destroyed
+[2024.03.14-21.32.56:916][654]LogSlate: Window 'Content Browser' being destroyed
+[2024.03.14-21.32.58:246][795]LogSlate: Window 'Message Log' being destroyed
+[2024.03.14-21.32.58:258][795]LogSlate: Window 'Message Log' being destroyed
+[2024.03.14-21.33.06:430][532]LogContentBrowser: Attempting asset rename: Material__2 -> M_Temple
+[2024.03.14-21.33.06:489][532]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.14-21.33.06:559][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Temple/M_Temple" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Temple/M_Temple.uasset" SILENT=true
+[2024.03.14-21.33.06:560][532]LogSavePackage: Moving output files for package: /Game/Meshes/Temple/M_Temple
+[2024.03.14-21.33.06:560][532]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/M_TempleB0CEDBB64851D4460AF4BAB09A37D45B.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Temple/M_Temple.uasset'
+[2024.03.14-21.33.06:565][532]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 3.91 sec)
+[2024.03.14-21.33.06:585][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.03.14-21.33.06:598][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.03.14-21.33.06:607][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.14-21.33.06:608][532]AssetCheck: New page: Asset Save: M_Temple
+[2024.03.14-21.33.06:608][532]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Meshes/Temple/M_Temple.M_Temple
+[2024.03.14-21.33.08:511][679]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Temple/Temple_LP_v1.Temple_LP_v1
+[2024.03.14-21.33.08:511][679]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Temple/Temple_LP_v1.Temple_LP_v1
+[2024.03.14-21.33.08:511][679]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/Temple/Temple_LP_v1.Temple_LP_v1 as actor: StaticMeshActor /Game/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_3
+[2024.03.14-21.33.09:141][732]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Temple/Temple_LP_v1.Temple_LP_v1
+[2024.03.14-21.33.09:141][732]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Temple/Temple_LP_v1.Temple_LP_v1
+[2024.03.14-21.33.09:142][732]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/Temple/Temple_LP_v1.Temple_LP_v1 as actor: StaticMeshActor /Game/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_UAID_74563C6DEDB776E201_2010200624
+[2024.03.14-21.33.20:492][934]Cmd: DELETE
+[2024.03.14-21.33.20:492][934]Cmd: ACTOR DELETE
+[2024.03.14-21.33.20:495][934]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.14-21.33.20:506][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.03.14-21.33.20:508][934]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.03.14-21.33.39:462][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.03.14-21.33.40:254][513]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.14-21.33.40:272][513]LogWorldPartition: Actor /Game/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_UAID_74563C6DEDB776E201_2010200624 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/TestMap/6/ZX/07QIF5DQYIDX0787V6QA7E.PackageMetaData in its package
+[2024.03.14-21.33.40:273][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.03.14-21.33.40:285][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.03.14-21.33.40:294][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.03.14-21.33.40:307][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.03.14-21.33.49:075][772]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\felix\Desktop\Wks_JeuDune\Pont\Pont_HP_v2.fbx)
+[2024.03.14-21.33.49:079][772]LogFbx: Loading FBX Scene from C:\Users\felix\Desktop\Wks_JeuDune\Pont\Pont_HP_v2.fbx
+[2024.03.14-21.33.49:083][772]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.14-21.33.56:301][772]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.14-21.33.56:374][772]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.03.14-21.33.56:479][772]LogAutomationController: Ignoring very large delta of 7.41 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.14-21.33.59:211][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.03.14-21.34.00:245][996]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.14-21.34.00:264][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.14-21.34.00:275][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.03.14-21.34.00:285][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.03.14-21.34.07:909][230]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\felix\Desktop\Wks_JeuDune\Temple\Temple_LP_v2.fbx)
+[2024.03.14-21.34.07:912][230]LogFbx: Loading FBX Scene from C:\Users\felix\Desktop\Wks_JeuDune\Temple\Temple_LP_v2.fbx
+[2024.03.14-21.34.07:917][230]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.14-21.34.11:528][230]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.14-21.34.11:574][230]LogFbx: Display: Triangulating static mesh temple_toit
+[2024.03.14-21.34.11:589][230]LogStaticMesh: Display: Building static mesh Temple_LP_v2...
+[2024.03.14-21.34.11:609][230]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Temple/Temple_LP_v2.Temple_LP_v2
+[2024.03.14-21.34.11:623][230]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.03.14-21.34.11:635][230]LogAutomationController: Ignoring very large delta of 3.73 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.14-21.34.15:393][620]LogSlate: Window 'Message Log' being destroyed
+[2024.03.14-21.34.15:406][620]LogSlate: Window 'Message Log' being destroyed
+[2024.03.14-21.34.17:345][833]LogSlate: Window 'Content Browser' being destroyed
+[2024.03.14-21.34.17:356][833]LogSlate: Window 'Content Browser' being destroyed
+[2024.03.14-21.34.19:191][ 28]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Temple/Temple_LP_v2.Temple_LP_v2
+[2024.03.14-21.34.19:191][ 28]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Temple/Temple_LP_v2.Temple_LP_v2
+[2024.03.14-21.34.19:192][ 28]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/Temple/Temple_LP_v2.Temple_LP_v2 as actor: StaticMeshActor /Game/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_7
+[2024.03.14-21.34.19:453][ 57]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Temple/Temple_LP_v2.Temple_LP_v2
+[2024.03.14-21.34.19:453][ 57]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Temple/Temple_LP_v2.Temple_LP_v2
+[2024.03.14-21.34.19:455][ 57]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/Temple/Temple_LP_v2.Temple_LP_v2 as actor: StaticMeshActor /Game/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_UAID_74563C6DEDB776E201_2080512625
+[2024.03.14-21.34.34:934][593]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.14-21.34.52:901][181]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Meshes/Temple/M_Temple.M_Temple
+[2024.03.14-21.34.52:903][181]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.14-21.34.52:903][181]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.14-21.34.53:033][181]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.14-21.34.53:033][181]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.14-21.34.53:033][181]MaterialEditorStats: Shader Count: 0
+[2024.03.14-21.34.53:039][181]LogViewport: Scene viewport resized to 242x264, mode Windowed.
+[2024.03.14-21.34.53:079][183]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.03.14-21.34.53:079][183]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.03.14-21.34.53:079][183]MaterialEditorStats: Texture samplers: 2/16
+[2024.03.14-21.34.53:079][183]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.14-21.34.53:079][183]MaterialEditorStats: Shader Count: 4
+[2024.03.14-21.35.06:043][184]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.14-21.35.06:051][184]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.14-21.35.06:052][184]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.14-21.35.06:052][184]MaterialEditorStats: Shader Count: 0
+[2024.03.14-21.35.06:059][185]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.03.14-21.35.06:059][185]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.03.14-21.35.06:059][185]MaterialEditorStats: Texture samplers: 2/16
+[2024.03.14-21.35.06:059][185]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.14-21.35.06:059][185]MaterialEditorStats: Shader Count: 4
+[2024.03.14-21.35.07:374][287]LogMaterialEditor: Applying material M_Temple
+[2024.03.14-21.35.07:447][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.03.14-21.35.07:607][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.03.14-21.35.14:427][689]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.14-21.35.14:427][689]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.14-21.35.14:427][689]MaterialEditorStats: Shader Count: 0
+[2024.03.14-21.35.14:444][691]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.03.14-21.35.14:444][691]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.03.14-21.35.14:444][691]MaterialEditorStats: Texture samplers: 2/16
+[2024.03.14-21.35.14:444][691]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.14-21.35.14:445][691]MaterialEditorStats: Shader Count: 4
+[2024.03.14-21.35.16:808][871]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.14-21.35.16:808][871]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.14-21.35.16:808][871]MaterialEditorStats: Shader Count: 0
+[2024.03.14-21.35.16:824][873]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.03.14-21.35.16:824][873]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.03.14-21.35.16:824][873]MaterialEditorStats: Texture samplers: 2/16
+[2024.03.14-21.35.16:824][873]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.14-21.35.16:824][873]MaterialEditorStats: Shader Count: 4
+[2024.03.14-21.35.18:076][967]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.14-21.35.18:076][967]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.14-21.35.18:076][967]MaterialEditorStats: Shader Count: 0
+[2024.03.14-21.35.18:092][969]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.03.14-21.35.18:092][969]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.03.14-21.35.18:092][969]MaterialEditorStats: Texture samplers: 2/16
+[2024.03.14-21.35.18:092][969]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.14-21.35.18:092][969]MaterialEditorStats: Shader Count: 4
+[2024.03.14-21.35.18:521][  2]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.14-21.35.19:280][ 60]LogMaterialEditor: Applying material M_Temple
+[2024.03.14-21.35.19:331][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.03.14-21.35.19:522][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.03.14-21.35.19:775][ 76]LogMaterialEditor: Saving and Compiling material M_Temple
+[2024.03.14-21.35.19:777][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.14-21.35.19:851][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Temple/M_Temple" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Temple/M_Temple.uasset" SILENT=true
+[2024.03.14-21.35.19:852][ 76]LogSavePackage: Moving output files for package: /Game/Meshes/Temple/M_Temple
+[2024.03.14-21.35.19:852][ 76]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/M_Temple1D55D7AF43784A611A0B2BAEFE111ADD.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Temple/M_Temple.uasset'
+[2024.03.14-21.35.19:857][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 3.99 sec)
+[2024.03.14-21.35.19:858][ 76]AssetCheck: New page: Asset Save: M_Temple
+[2024.03.14-21.35.19:858][ 76]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Meshes/Temple/M_Temple.M_Temple
+[2024.03.14-21.35.19:859][ 76]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.03.14-21.35.19:859][ 76]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.03.14-21.35.19:859][ 76]MaterialEditorStats: MaxSampler: 241 instructions
+[2024.03.14-21.35.19:859][ 76]MaterialEditorStats: Texture samplers: 3/16
+[2024.03.14-21.35.19:859][ 76]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.14-21.35.19:859][ 76]MaterialEditorStats: Shader Count: 16
+[2024.03.14-21.35.20:464][122]LogSlate: Window 'M_Temple' being destroyed
+[2024.03.14-21.35.20:468][122]LogSlate: Window 'M_Temple' being destroyed
+[2024.03.14-21.35.20:475][122]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.03.14-21.35.20:475][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.14-21.35.21:221][192]LogEditorViewport: Clicking Background
+[2024.03.14-21.35.28:901][829]LogEditorViewport: Clicking Background
+[2024.03.14-21.35.29:356][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.14-21.35.29:399][868]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/TestMap/0/19/XJ6V7F9K2EGE7KSE4N1LKU
+[2024.03.14-21.35.29:399][868]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/XJ6V7F9K2EGE7KSE4N1LKUD102139D450CB91943891F9A4F0DC108.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/__ExternalActors__/Maps/TestMap/0/19/XJ6V7F9K2EGE7KSE4N1LKU.uasset'
+[2024.03.14-21.35.29:404][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 4.04 sec)
+[2024.03.14-21.35.29:407][868]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_74563C6DEDB776E201_2080512625
+[2024.03.14-21.35.29:407][868]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_UAID_74563C6DEDB776E201_2080512625
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 0 (Found bundle for host: 0x7f1351706c0 [serially])
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 6 (Closing connection)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC0C5A01-4994-859D-6890-54A3CC3BF56B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=e92cdcf642bde5f2608c24bd6d684a31%7C78afdb90ac8647e6a52daa91913c8f61%7Cf06beeaa-581b-4fa6-9988-23e347fd4d57&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 9 (  Trying 34.227.241.117:443...)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (34.227.241.117) port 443)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 25 (Server certificate:)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 34 (Closing connection)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: 000007F270F16900: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.14-21.35.42:529][148]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC0C5A01-4994-859D-6890-54A3CC3BF56B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=e92cdcf642bde5f2608c24bd6d684a31%7C78afdb90ac8647e6a52daa91913c8f61%7Cf06beeaa-581b-4fa6-9988-23e347fd4d57&AppEnvironment=datacollector-binary&UploadType=eteventstream
