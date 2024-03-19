@@ -5591,3 +5591,750 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.19-20.52.53:991][  6]MaterialEditorStats: Texture samplers: 3/16
 [2024.03.19-20.52.53:991][  6]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
 [2024.03.19-20.52.53:991][  6]MaterialEditorStats: Shader Count: 32
+[2024.03.19-20.53.38:306][789]LogContentBrowser: Attempting asset rename: barrieres_substance_low_barriere_003_BaseColor -> Fence_3_Base
+[2024.03.19-20.53.38:331][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-20.53.38:385][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/Maps/Fence_3_Base" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/Maps/Fence_3_Base.uasset" SILENT=true
+[2024.03.19-20.53.38:427][789]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/Maps/Fence_3_Base
+[2024.03.19-20.53.38:427][789]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Fence_3_Base011555DF44A68A3D492E1C8A0EADF7C7.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/Maps/Fence_3_Base.uasset'
+[2024.03.19-20.53.38:433][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 6.85 sec)
+[2024.03.19-20.53.38:448][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.03.19-20.53.38:458][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.03.19-20.53.38:466][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.03.19-20.53.38:468][789]AssetCheck: New page: Asset Save: Fence_3_Base
+[2024.03.19-20.53.38:468][789]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Meshes/Fence/Maps/Fence_3_Base.Fence_3_Base
+[2024.03.19-20.53.46:353][272]LogContentBrowser: Attempting asset rename: barrieres_substance_low_barriere_003_Normal -> Fence_3_Nrm
+[2024.03.19-20.53.46:380][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-20.53.46:437][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/Maps/Fence_3_Nrm" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/Maps/Fence_3_Nrm.uasset" SILENT=true
+[2024.03.19-20.53.46:498][272]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/Maps/Fence_3_Nrm
+[2024.03.19-20.53.46:498][272]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Fence_3_Nrm65B13EAF4FCAB4EFC9E58D8306CBC6F1.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/Maps/Fence_3_Nrm.uasset'
+[2024.03.19-20.53.46:504][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 6.97 sec)
+[2024.03.19-20.53.46:517][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.03.19-20.53.46:526][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.19-20.53.46:536][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.03.19-20.53.46:537][272]AssetCheck: New page: Asset Save: Fence_3_Nrm
+[2024.03.19-20.53.46:537][272]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Meshes/Fence/Maps/Fence_3_Nrm.Fence_3_Nrm
+[2024.03.19-20.53.56:603][885]LogContentBrowser: Attempting asset rename: barrieres_substance_low_barriere_003_OcclusionRoughnessMetallic -> Fence_3_Arm
+[2024.03.19-20.53.56:629][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-20.53.56:684][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/Maps/Fence_3_Arm" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/Maps/Fence_3_Arm.uasset" SILENT=true
+[2024.03.19-20.53.56:726][885]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/Maps/Fence_3_Arm
+[2024.03.19-20.53.56:726][885]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Fence_3_Arm1DF5AD90442A2E251877EE95EBFD6140.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/Maps/Fence_3_Arm.uasset'
+[2024.03.19-20.53.56:732][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 7.07 sec)
+[2024.03.19-20.53.56:746][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.03.19-20.53.56:758][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.03.19-20.53.56:768][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.03.19-20.53.56:768][885]AssetCheck: New page: Asset Save: Fence_3_Arm
+[2024.03.19-20.53.56:768][885]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Meshes/Fence/Maps/Fence_3_Arm.Fence_3_Arm
+[2024.03.19-20.54.13:987][935]LogContentBrowser: Attempting asset rename: barrieres_substance_low_barriere_004_BaseColor -> Fence_4_Base
+[2024.03.19-20.54.14:012][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-20.54.14:046][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/Maps/Fence_4_Base" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/Maps/Fence_4_Base.uasset" SILENT=true
+[2024.03.19-20.54.14:092][935]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/Maps/Fence_4_Base
+[2024.03.19-20.54.14:092][935]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Fence_4_BaseA7BD958841387DDE63618E81C73A8044.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/Maps/Fence_4_Base.uasset'
+[2024.03.19-20.54.14:099][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 7.16 sec)
+[2024.03.19-20.54.14:112][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.03.19-20.54.14:122][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.19-20.54.14:132][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.03.19-20.54.14:133][935]AssetCheck: New page: Asset Save: Fence_4_Base
+[2024.03.19-20.54.14:133][935]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Meshes/Fence/Maps/Fence_4_Base.Fence_4_Base
+[2024.03.19-20.54.20:106][297]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-20.54.23:820][517]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.54.23:820][517]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.19-20.54.23:820][517]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.54.23:860][518]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.03.19-20.54.23:860][518]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.03.19-20.54.23:860][518]MaterialEditorStats: Texture samplers: 2/16
+[2024.03.19-20.54.23:860][518]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.19-20.54.23:860][518]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.54.27:311][726]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.54.27:311][726]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.19-20.54.27:311][726]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.54.27:311][726]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.54.27:364][728]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.03.19-20.54.27:364][728]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.54.27:364][728]MaterialEditorStats: Texture samplers: 3/16
+[2024.03.19-20.54.27:364][728]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.19-20.54.27:364][728]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.54.27:364][728]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.54.35:083][193]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.54.35:083][193]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.19-20.54.35:083][193]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.54.35:083][193]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.54.35:110][194]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.03.19-20.54.35:110][194]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.54.35:110][194]MaterialEditorStats: Texture samplers: 3/16
+[2024.03.19-20.54.35:110][194]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.19-20.54.35:110][194]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.54.35:110][194]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.54.41:507][579]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.54.41:507][579]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.19-20.54.41:507][579]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.54.41:507][579]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.54.41:543][580]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.03.19-20.54.41:543][580]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.54.41:543][580]MaterialEditorStats: Texture samplers: 3/16
+[2024.03.19-20.54.41:543][580]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.19-20.54.41:543][580]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.54.41:543][580]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.54.43:970][721]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.54.43:970][721]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.19-20.54.43:970][721]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.54.43:970][721]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.54.44:254][738]MaterialEditorStats: Texture samplers: 1/16
+[2024.03.19-20.54.44:254][738]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.19-20.54.44:254][738]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.54.44:254][738]MaterialEditorStats: Shader Count: 1
+[2024.03.19-20.54.44:368][745]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.03.19-20.54.44:368][745]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.54.44:368][745]MaterialEditorStats: Texture samplers: 3/16
+[2024.03.19-20.54.44:368][745]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.19-20.54.44:368][745]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.54.44:368][745]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.54.45:862][831]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.54.45:862][831]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.19-20.54.45:862][831]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.54.45:862][831]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.54.46:021][842]MaterialEditorStats: Texture samplers: 1/16
+[2024.03.19-20.54.46:021][842]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.19-20.54.46:021][842]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.54.46:021][842]MaterialEditorStats: Shader Count: 1
+[2024.03.19-20.54.46:118][848]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.03.19-20.54.46:118][848]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.54.46:118][848]MaterialEditorStats: Texture samplers: 4/16
+[2024.03.19-20.54.46:118][848]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.19-20.54.46:118][848]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.54.46:118][848]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.54.47:617][930]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.54.47:617][930]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.19-20.54.47:617][930]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.54.47:617][930]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.54.47:785][941]MaterialEditorStats: Texture samplers: 2/16
+[2024.03.19-20.54.47:785][941]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.19-20.54.47:785][941]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.54.47:786][941]MaterialEditorStats: Shader Count: 1
+[2024.03.19-20.54.47:883][947]MaterialEditorStats: Base pass shader: 199 instructions
+[2024.03.19-20.54.47:883][947]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.54.47:883][947]MaterialEditorStats: Texture samplers: 4/16
+[2024.03.19-20.54.47:883][947]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.19-20.54.47:883][947]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.54.47:883][947]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.54.49:394][ 33]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.54.49:394][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.54.49:394][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.54.49:394][ 33]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.54.49:412][ 35]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.19-20.54.49:412][ 35]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.54.49:412][ 35]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.19-20.54.49:412][ 35]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.54.49:412][ 35]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.54.49:412][ 35]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.54.49:843][ 62]LogMaterialEditor: Saving and Compiling material Fence_001
+[2024.03.19-20.54.49:898][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.03.19-20.54.50:329][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.19-20.54.50:336][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-20.54.51:186][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/Fence_001" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/Fence_001.uasset" SILENT=true
+[2024.03.19-20.54.51:188][ 62]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/Fence_001
+[2024.03.19-20.54.51:188][ 62]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Fence_001E20E919644F5A4BE168653A239976310.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/Fence_001.uasset'
+[2024.03.19-20.54.51:193][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 857 ms (total: 8.02 sec)
+[2024.03.19-20.54.51:194][ 62]AssetCheck: New page: Asset Save: Fence_001
+[2024.03.19-20.54.51:194][ 62]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Meshes/Fence/Fence_001.Fence_001
+[2024.03.19-20.54.51:195][ 62]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.19-20.54.51:195][ 62]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.54.51:195][ 62]MaterialEditorStats: MaxSampler: 270 instructions
+[2024.03.19-20.54.51:195][ 62]MaterialEditorStats: Texture samplers: 6/16
+[2024.03.19-20.54.51:195][ 62]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.54.51:195][ 62]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.54.51:195][ 62]MaterialEditorStats: Shader Count: 32
+[2024.03.19-20.54.51:995][112]LogMaterialEditor: Saving and Compiling material Fence_001
+[2024.03.19-20.54.51:996][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-20.54.52:064][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/Fence_001" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/Fence_001.uasset" SILENT=true
+[2024.03.19-20.54.52:065][112]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/Fence_001
+[2024.03.19-20.54.52:066][112]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Fence_0019CBB035340CD12A351D7FB831403ECAF.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/Fence_001.uasset'
+[2024.03.19-20.54.52:070][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 8.09 sec)
+[2024.03.19-20.54.52:073][112]AssetCheck: New page: Asset Save: Fence_001
+[2024.03.19-20.54.52:073][112]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Meshes/Fence/Fence_001.Fence_001
+[2024.03.19-20.54.53:110][176]LogSlate: Window 'Fence_001' being destroyed
+[2024.03.19-20.54.53:129][176]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-20.54.53:129][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-20.54.59:533][645]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Fence/barrieres_1.barrieres_1
+[2024.03.19-20.54.59:593][645]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-20.54.59:593][645]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.19-20.54.59:929][645]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.03.19-20.55.07:985][ 22]LogSlate: Window 'barrieres_1' being destroyed
+[2024.03.19-20.55.08:026][ 22]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-20.55.08:026][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-20.55.13:265][407]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Meshes/Fence/Fence_001.Fence_001
+[2024.03.19-20.55.13:267][407]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-20.55.13:267][407]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.19-20.55.13:441][407]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.55.13:441][407]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.55.13:441][407]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.13:441][407]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.55.13:445][407]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.03.19-20.55.13:495][409]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.19-20.55.13:495][409]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.55.13:495][409]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.19-20.55.13:495][409]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.55.13:495][409]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.13:495][409]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.55.31:183][479]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.55.31:183][479]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.55.31:183][479]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.31:183][479]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.55.31:224][480]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.19-20.55.31:224][480]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.55.31:224][480]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.19-20.55.31:224][480]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.55.31:224][480]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.31:224][480]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.55.34:833][696]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.55.34:833][696]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.55.34:833][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.34:833][696]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.55.34:872][698]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.19-20.55.34:872][698]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.55.34:872][698]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.19-20.55.34:872][698]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.55.34:872][698]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.34:872][698]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.55.36:493][796]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.55.36:493][796]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.55.36:493][796]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.36:493][796]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.55.36:522][798]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.19-20.55.36:522][798]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.55.36:522][798]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.19-20.55.36:522][798]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.55.36:522][798]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.36:522][798]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.55.38:818][935]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.55.38:818][935]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.55.38:818][935]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.38:818][935]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.55.38:848][937]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.19-20.55.38:848][937]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.55.38:848][937]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.19-20.55.38:848][937]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.55.38:848][937]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.38:848][937]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.55.40:153][ 13]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.55.40:154][ 13]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.03.19-20.55.40:154][ 13]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.40:154][ 13]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.55.40:446][ 31]MaterialEditorStats: Texture samplers: 4/16
+[2024.03.19-20.55.40:446][ 31]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.03.19-20.55.40:446][ 31]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.40:446][ 31]MaterialEditorStats: Shader Count: 1
+[2024.03.19-20.55.40:544][ 37]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.55.40:544][ 37]MaterialEditorStats: Texture samplers: 4/16
+[2024.03.19-20.55.40:545][ 37]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.03.19-20.55.40:545][ 37]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.40:545][ 37]MaterialEditorStats: Shader Count: 3
+[2024.03.19-20.55.40:643][ 43]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.03.19-20.55.40:643][ 43]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.55.40:643][ 43]MaterialEditorStats: Texture samplers: 6/16
+[2024.03.19-20.55.40:643][ 43]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.03.19-20.55.40:643][ 43]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.40:643][ 43]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.55.47:137][435]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.55.47:137][435]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.55.47:137][435]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.47:137][435]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.55.47:186][437]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.19-20.55.47:186][437]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.55.47:186][437]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.19-20.55.47:186][437]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.55.47:186][437]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.47:186][437]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.55.50:241][622]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.55.50:241][622]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.55.50:241][622]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.50:241][622]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.55.50:288][624]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.19-20.55.50:288][624]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.55.50:288][624]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.19-20.55.50:288][624]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.55.50:288][624]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.50:288][624]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.55.51:222][680]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.55.51:222][680]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.55.51:222][680]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.51:222][680]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.55.51:270][682]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.19-20.55.51:271][682]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.55.51:271][682]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.19-20.55.51:271][682]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.55.51:271][682]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.51:271][682]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.55.58:063][ 96]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.55.58:063][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.55.58:063][ 96]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.58:063][ 96]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: ================================================
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: Total job queries 493, among them cache hits 303 (61.46%)
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: Tracking 190 distinct input hashes that result in 115 distinct outputs (60.53%)
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: RAM used: 4,05 MiB of 1,60 GiB budget. Usage: 0.25%
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: Shaders Compiled: 103
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: Jobs assigned 103, completed 103 (100%)
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: Average time worker was idle: 494.34 s
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: Time job spent in pending queue: average 0.17 s, longest 0.67 s
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: Job execution time: average 0.34 s, max 1.48 s
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: Job life time (pending + execution): average 0.51 s, max 1.51
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: Shader code size: average 39,302 KiB, min 3,543 KiB, max 70,504 KiB
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.20 s
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: Jobs were issued in 103 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: Average processing rate: 14.31 jobs/sec
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: Total thread time: 18,952 s
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: Total thread preprocess time: 4,043 s
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: Percentage time preprocessing: 21.33%
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: Effective parallelization: 2.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   14 times, average 0.24 sec, max 0.60 sec, min 0.13 sec)
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   14 times, average 0.21 sec, max 0.53 sec, min 0.15 sec)
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 0.21 sec, max 0.23 sec, min 0.20 sec)
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    3 times, average 0.21 sec, max 0.25 sec, min 0.15 sec)
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 0.20 sec, max 0.23 sec, min 0.18 sec)
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.41% of total time (compiled   14 times, average 0.24 sec, max 0.60 sec, min 0.13 sec)
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.82% of total time (compiled   14 times, average 0.21 sec, max 0.53 sec, min 0.15 sec)
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.92% of total time (compiled    9 times, average 0.19 sec, max 0.43 sec, min 0.14 sec)
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.90% of total time (compiled    9 times, average 0.10 sec, max 0.35 sec, min 0.06 sec)
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.40% of total time (compiled    4 times, average 0.21 sec, max 0.23 sec, min 0.20 sec)
+[2024.03.19-20.55.58:088][ 97]LogShaderCompilers: Display: ================================================
+[2024.03.19-20.55.58:097][ 98]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.19-20.55.58:097][ 98]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.55.58:097][ 98]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.19-20.55.58:097][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.55.58:097][ 98]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.55.58:097][ 98]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.56.00:362][236]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.56.00:362][236]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.56.00:362][236]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.56.00:362][236]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.56.00:405][238]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.19-20.56.00:405][238]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.56.00:405][238]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.19-20.56.00:405][238]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.56.00:405][238]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.56.00:405][238]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.56.03:421][420]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.56.03:421][420]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.56.03:421][420]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.56.03:421][420]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.56.03:473][422]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.19-20.56.03:473][422]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.56.03:473][422]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.19-20.56.03:473][422]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.56.03:473][422]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.56.03:473][422]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.56.06:690][614]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.56.06:690][614]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.56.06:690][614]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.56.06:690][614]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.56.06:934][629]MaterialEditorStats: Texture samplers: 3/16
+[2024.03.19-20.56.06:934][629]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.56.06:934][629]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.56.06:934][629]MaterialEditorStats: Shader Count: 1
+[2024.03.19-20.56.07:032][635]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.03.19-20.56.07:032][635]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.56.07:032][635]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.19-20.56.07:032][635]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.56.07:032][635]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.56.07:032][635]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.56.09:935][804]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.19-20.56.09:954][804]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.56.09:954][804]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.56.09:954][804]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.56.09:954][804]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.56.10:145][817]MaterialEditorStats: Texture samplers: 3/16
+[2024.03.19-20.56.10:145][817]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.56.10:145][817]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.56.10:145][817]MaterialEditorStats: Shader Count: 1
+[2024.03.19-20.56.10:257][824]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.56.10:257][824]MaterialEditorStats: Texture samplers: 3/16
+[2024.03.19-20.56.10:257][824]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.56.10:257][824]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.56.10:257][824]MaterialEditorStats: Shader Count: 3
+[2024.03.19-20.56.10:356][830]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.19-20.56.10:356][830]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.56.10:356][830]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.19-20.56.10:356][830]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.56.10:356][830]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.56.10:356][830]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.56.12:310][948]LogMaterialEditor: Applying material Fence_001
+[2024.03.19-20.56.12:396][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.19-20.56.12:785][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.03.19-20.56.15:000][ 81]LogViewport: Scene viewport resized to 375x456, mode Windowed.
+[2024.03.19-20.56.15:066][ 83]LogViewport: Scene viewport resized to 257x297, mode Windowed.
+[2024.03.19-20.56.15:109][ 84]LogViewport: Scene viewport resized to 152x155, mode Windowed.
+[2024.03.19-20.56.15:125][ 85]LogViewport: Scene viewport resized to 151x155, mode Windowed.
+[2024.03.19-20.56.15:443][107]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.03.19-20.56.15:763][130]LogSlate: Window 'Fence_001' being destroyed
+[2024.03.19-20.56.17:698][356]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Fence/barrieres_1.barrieres_1
+[2024.03.19-20.56.17:702][356]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-20.56.17:702][356]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.19-20.56.18:029][356]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.03.19-20.56.26:193][305]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.19-20.56.26:203][305]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.56.26:203][305]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.56.26:203][305]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.56.26:203][305]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.56.26:311][318]MaterialEditorStats: Texture samplers: 3/16
+[2024.03.19-20.56.26:311][318]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.56.26:311][318]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.56.26:311][318]MaterialEditorStats: Shader Count: 1
+[2024.03.19-20.56.26:411][330]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.19-20.56.26:411][330]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.56.26:411][330]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.19-20.56.26:411][330]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.56.26:411][330]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.56.26:411][330]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.56.28:525][536]LogMaterialEditor: Applying material Fence_001
+[2024.03.19-20.56.28:591][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.03.19-20.56.28:966][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.03.19-20.56.42:063][ 74]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.56.42:063][ 74]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.56.42:063][ 74]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.56.42:063][ 74]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.56.42:280][100]MaterialEditorStats: Texture samplers: 3/16
+[2024.03.19-20.56.42:280][100]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.56.42:280][100]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.56.42:280][100]MaterialEditorStats: Shader Count: 1
+[2024.03.19-20.56.42:388][113]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.19-20.56.42:388][113]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.56.42:388][113]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.19-20.56.42:388][113]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.56.42:388][113]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.56.42:388][113]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.56.43:216][209]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.19-20.56.43:224][209]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.19-20.56.43:224][209]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.56.43:225][209]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.56.43:225][209]MaterialEditorStats: Shader Count: 0
+[2024.03.19-20.56.43:230][210]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.19-20.56.43:230][210]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.19-20.56.43:230][210]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.19-20.56.43:230][210]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.19-20.56.43:230][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.19-20.56.43:230][210]MaterialEditorStats: Shader Count: 4
+[2024.03.19-20.56.44:436][353]LogMaterialEditor: Applying material Fence_001
+[2024.03.19-20.56.44:476][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.03.19-20.56.44:884][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 0 (Found bundle for host: 0x7bdeb950a80 [serially])
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 6 (Closing connection)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E181E72-4690-0CEC-30A1-A6BA97E7C383%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=e92cdcf642bde5f2608c24bd6d684a31%7C78afdb90ac8647e6a52daa91913c8f61%7Cf06beeaa-581b-4fa6-9988-23e347fd4d57&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 9 (  Trying 52.22.92.41:443...)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (52.22.92.41) port 443)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 25 (Server certificate:)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 34 (Closing connection)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: 000007BFB7520000: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.19-20.57.16:622][161]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E181E72-4690-0CEC-30A1-A6BA97E7C383%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=e92cdcf642bde5f2608c24bd6d684a31%7C78afdb90ac8647e6a52daa91913c8f61%7Cf06beeaa-581b-4fa6-9988-23e347fd4d57&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.19-20.57.58:656][190]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-20.57.58:656][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-20.58.00:122][350]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-20.58.00:122][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-20.58.01:842][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-20.58.01:915][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.03.19-20.58.01:929][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.03.19-20.58.01:937][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.03.19-20.58.01:952][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 8.20 sec)
+[2024.03.19-20.58.30:495][447]LogContentBrowser: Attempting asset rename: Fence_001 -> M_Fence
+[2024.03.19-20.58.30:527][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-20.58.30:592][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/barrieres_1" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/barrieres_1.uasset" SILENT=true
+[2024.03.19-20.58.30:595][447]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/barrieres_1
+[2024.03.19-20.58.30:595][447]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/barrieres_19180AB1044E3E2E2A7F6F38BA37D9D67.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/barrieres_1.uasset'
+[2024.03.19-20.58.30:611][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/barrieres_2" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/barrieres_2.uasset" SILENT=true
+[2024.03.19-20.58.30:613][447]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/barrieres_2
+[2024.03.19-20.58.30:614][447]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/barrieres_2702FEB2F4F4E41AF1C7537AAD509EC6E.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/barrieres_2.uasset'
+[2024.03.19-20.58.30:621][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/barrieres_3" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/barrieres_3.uasset" SILENT=true
+[2024.03.19-20.58.30:623][447]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/barrieres_3
+[2024.03.19-20.58.30:623][447]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/barrieres_38DBD0DED47BB3AF1C385349016A82C44.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/barrieres_3.uasset'
+[2024.03.19-20.58.30:630][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/barrieres_4" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/barrieres_4.uasset" SILENT=true
+[2024.03.19-20.58.30:632][447]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/barrieres_4
+[2024.03.19-20.58.30:633][447]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/barrieres_4CA1F1CBC4378274C490EBEA0C64BCF93.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/barrieres_4.uasset'
+[2024.03.19-20.58.31:828][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/M_Fence" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/M_Fence.uasset" SILENT=true
+[2024.03.19-20.58.31:829][447]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/M_Fence
+[2024.03.19-20.58.31:829][447]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/M_FenceFBB9C1E34DAD1CDB8F235BA8A2038601.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/M_Fence.uasset'
+[2024.03.19-20.58.31:836][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.30 sec (total: 9.51 sec)
+[2024.03.19-20.58.31:850][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.03.19-20.58.31:861][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.03.19-20.58.31:872][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.03.19-20.58.31:874][447]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.19-20.58.31:874][447]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/Fence/barrieres_1.barrieres_1
+[2024.03.19-20.58.31:874][447]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/Fence/barrieres_2.barrieres_2
+[2024.03.19-20.58.31:874][447]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/Fence/barrieres_3.barrieres_3
+[2024.03.19-20.58.31:874][447]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/Fence/barrieres_4.barrieres_4
+[2024.03.19-20.58.31:874][447]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Meshes/Fence/M_Fence.M_Fence
+[2024.03.19-20.58.34:854][656]LogContentBrowser: Deferred new asset file creation: M_Fence_Inst
+[2024.03.19-20.58.34:894][656]LogContentBrowser: Creating deferred item: M_Fence_Inst
+[2024.03.19-20.58.34:900][657]LogContentBrowser: Renaming the item being created (Deferred Item: M_Fence_Inst).
+[2024.03.19-20.58.40:942][131]LogContentBrowser: Attempting asset rename: M_Fence_Inst -> MI_Fence_1
+[2024.03.19-20.58.40:943][131]LogContentBrowser: End creating deferred item M_Fence_Inst
+[2024.03.19-20.58.41:978][205]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Meshes/Fence/MI_Fence_1.MI_Fence_1
+[2024.03.19-20.58.41:991][205]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-20.58.41:991][205]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.19-20.58.42:186][205]LogViewport: Scene viewport resized to 1335x894, mode Windowed.
+[2024.03.19-20.59.06:516][946]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-20.59.06:620][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/MI_Fence_1" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/MI_Fence_1.uasset" SILENT=true
+[2024.03.19-20.59.06:632][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.03.19-20.59.06:644][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.03.19-20.59.06:646][946]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/MI_Fence_1
+[2024.03.19-20.59.06:646][946]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/MI_Fence_171C3357F46A080B2969CC6997DC0EE3E.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/MI_Fence_1.uasset'
+[2024.03.19-20.59.06:653][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 9.64 sec)
+[2024.03.19-20.59.06:653][946]AssetCheck: New page: Asset Save: MI_Fence_1
+[2024.03.19-20.59.06:653][946]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Meshes/Fence/MI_Fence_1.MI_Fence_1
+[2024.03.19-20.59.12:009][341]LogViewport: Scene viewport resized to 1332x917, mode Windowed.
+[2024.03.19-20.59.12:125][343]LogViewport: Scene viewport resized to 895x582, mode Windowed.
+[2024.03.19-20.59.12:143][344]LogViewport: Scene viewport resized to 548x315, mode Windowed.
+[2024.03.19-20.59.12:643][383]LogViewport: Scene viewport resized to 1335x894, mode Windowed.
+[2024.03.19-20.59.12:902][403]LogSlate: Window 'MI_Fence_1' being destroyed
+[2024.03.19-20.59.16:662][837]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Fence/barrieres_2.barrieres_2
+[2024.03.19-20.59.16:666][837]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-20.59.16:666][837]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.19-20.59.16:991][837]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: ================================================
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: Total job queries 655, among them cache hits 399 (60.92%)
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: Tracking 248 distinct input hashes that result in 140 distinct outputs (56.45%)
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: RAM used: 5,40 MiB of 1,60 GiB budget. Usage: 0.33%
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: Shaders Compiled: 157
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: Jobs assigned 157, completed 157 (100%)
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: Average time worker was idle: 326.30 s
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: Time job spent in pending queue: average 0.19 s, longest 0.82 s
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: Job execution time: average 0.32 s, max 1.48 s
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: Job life time (pending + execution): average 0.51 s, max 1.51
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: Shader code size: average 39,726 KiB, min 3,543 KiB, max 70,504 KiB
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.56 s
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: Jobs were issued in 157 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: Average processing rate: 14.86 jobs/sec
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: Total thread time: 27,639 s
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: Total thread preprocess time: 5,006 s
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: Percentage time preprocessing: 18.11%
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: Effective parallelization: 2.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    6 times, average 0.21 sec, max 0.24 sec, min 0.20 sec)
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   22 times, average 0.21 sec, max 0.60 sec, min 0.13 sec)
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    3 times, average 0.21 sec, max 0.25 sec, min 0.15 sec)
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    6 times, average 0.20 sec, max 0.23 sec, min 0.18 sec)
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    6 times, average 0.20 sec, max 0.23 sec, min 0.18 sec)
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.79% of total time (compiled   22 times, average 0.21 sec, max 0.60 sec, min 0.13 sec)
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.55% of total time (compiled   22 times, average 0.20 sec, max 0.53 sec, min 0.15 sec)
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.02% of total time (compiled   14 times, average 0.18 sec, max 0.43 sec, min 0.14 sec)
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.71% of total time (compiled   14 times, average 0.09 sec, max 0.35 sec, min 0.06 sec)
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.62% of total time (compiled    6 times, average 0.21 sec, max 0.24 sec, min 0.20 sec)
+[2024.03.19-20.59.18:462][983]LogShaderCompilers: Display: ================================================
+[2024.03.19-20.59.34:056][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-20.59.34:127][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/barrieres_2" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/barrieres_2.uasset" SILENT=true
+[2024.03.19-20.59.34:130][724]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/barrieres_2
+[2024.03.19-20.59.34:130][724]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/barrieres_28C2056244C0A42328192639DCD81F3C0.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/barrieres_2.uasset'
+[2024.03.19-20.59.34:136][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 9.72 sec)
+[2024.03.19-20.59.34:137][724]AssetCheck: New page: Asset Save: barrieres_2
+[2024.03.19-20.59.34:137][724]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/Fence/barrieres_2.barrieres_2
+[2024.03.19-20.59.41:167][236]LogContentBrowser: Attempting asset rename: MI_Fence_1 -> MI_Fence_2
+[2024.03.19-20.59.41:197][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-20.59.41:252][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/barrieres_2" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/barrieres_2.uasset" SILENT=true
+[2024.03.19-20.59.41:254][236]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/barrieres_2
+[2024.03.19-20.59.41:255][236]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/barrieres_25D410775409A72128B77F6BE7CE61ABD.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/barrieres_2.uasset'
+[2024.03.19-20.59.41:255][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/MI_Fence_2" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/MI_Fence_2.uasset" SILENT=true
+[2024.03.19-20.59.41:256][236]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/MI_Fence_2
+[2024.03.19-20.59.41:256][236]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/MI_Fence_26A2A288041FFABC6FAA7739C33CBF11D.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/MI_Fence_2.uasset'
+[2024.03.19-20.59.41:262][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 9.79 sec)
+[2024.03.19-20.59.41:279][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.03.19-20.59.41:290][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.03.19-20.59.41:300][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.03.19-20.59.41:301][236]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.19-20.59.41:301][236]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/Fence/barrieres_2.barrieres_2
+[2024.03.19-20.59.41:302][236]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Meshes/Fence/MI_Fence_2.MI_Fence_2
+[2024.03.19-20.59.46:598][587]LogContentBrowser: Deferred new asset file creation: M_Fence_Inst
+[2024.03.19-20.59.46:641][587]LogContentBrowser: Creating deferred item: M_Fence_Inst
+[2024.03.19-20.59.46:648][588]LogContentBrowser: Renaming the item being created (Deferred Item: M_Fence_Inst).
+[2024.03.19-20.59.56:047][318]LogContentBrowser: Attempting asset rename: M_Fence_Inst -> MI_Fence_3
+[2024.03.19-20.59.56:048][318]LogContentBrowser: End creating deferred item M_Fence_Inst
+[2024.03.19-20.59.57:601][422]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Meshes/Fence/MI_Fence_3.MI_Fence_3
+[2024.03.19-20.59.57:602][422]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-20.59.57:602][422]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.19-20.59.57:713][422]LogViewport: Scene viewport resized to 1335x894, mode Windowed.
+[2024.03.19-21.00.21:831][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-21.00.21:935][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/MI_Fence_3" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/MI_Fence_3.uasset" SILENT=true
+[2024.03.19-21.00.21:950][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.03.19-21.00.21:964][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.03.19-21.00.21:966][110]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/MI_Fence_3
+[2024.03.19-21.00.21:966][110]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/MI_Fence_379EA2EFF415654245927028B538A3764.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/MI_Fence_3.uasset'
+[2024.03.19-21.00.21:972][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 9.93 sec)
+[2024.03.19-21.00.21:973][110]AssetCheck: New page: Asset Save: MI_Fence_3
+[2024.03.19-21.00.21:973][110]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Meshes/Fence/MI_Fence_3.MI_Fence_3
+[2024.03.19-21.00.25:889][550]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-21.00.25:889][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.00.26:498][592]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-21.00.26:498][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.00.28:600][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-21.00.28:650][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/MI_Fence_3" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/MI_Fence_3.uasset" SILENT=true
+[2024.03.19-21.00.28:651][791]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/MI_Fence_3
+[2024.03.19-21.00.28:652][791]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/MI_Fence_3DB141A354F169BB684E4F1886AC6118C.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/MI_Fence_3.uasset'
+[2024.03.19-21.00.28:655][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 9.99 sec)
+[2024.03.19-21.00.28:658][791]AssetCheck: New page: Asset Save: MI_Fence_3
+[2024.03.19-21.00.28:658][791]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Meshes/Fence/MI_Fence_3.MI_Fence_3
+[2024.03.19-21.00.32:458][125]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Fence/barrieres_3.barrieres_3
+[2024.03.19-21.00.32:462][125]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-21.00.32:462][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.19-21.00.32:796][125]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.03.19-21.00.41:198][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-21.00.41:254][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/barrieres_3" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/barrieres_3.uasset" SILENT=true
+[2024.03.19-21.00.41:256][ 54]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/barrieres_3
+[2024.03.19-21.00.41:256][ 54]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/barrieres_3F6044B674B203A3178DA06BF9174D154.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/barrieres_3.uasset'
+[2024.03.19-21.00.41:261][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 10.0 sec)
+[2024.03.19-21.00.41:262][ 54]AssetCheck: New page: Asset Save: barrieres_3
+[2024.03.19-21.00.41:262][ 54]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/Fence/barrieres_3.barrieres_3
+[2024.03.19-21.00.42:191][162]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-21.00.42:191][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.00.43:013][249]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-21.00.43:013][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.00.46:368][492]LogContentBrowser: Deferred new asset file creation: M_Fence_Inst
+[2024.03.19-21.00.46:388][492]LogContentBrowser: Creating deferred item: M_Fence_Inst
+[2024.03.19-21.00.46:395][493]LogContentBrowser: Renaming the item being created (Deferred Item: M_Fence_Inst).
+[2024.03.19-21.00.54:514][125]LogContentBrowser: Attempting asset rename: M_Fence_Inst -> MI_Fence_4
+[2024.03.19-21.00.54:514][125]LogContentBrowser: End creating deferred item M_Fence_Inst
+[2024.03.19-21.00.56:195][237]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Meshes/Fence/MI_Fence_4.MI_Fence_4
+[2024.03.19-21.00.56:196][237]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-21.00.56:196][237]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.19-21.00.56:397][237]LogViewport: Scene viewport resized to 1335x894, mode Windowed.
+[2024.03.19-21.01.00:403][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-21.01.00:490][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/MI_Fence_4" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/MI_Fence_4.uasset" SILENT=true
+[2024.03.19-21.01.00:504][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.03.19-21.01.00:517][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.03.19-21.01.00:520][523]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/MI_Fence_4
+[2024.03.19-21.01.00:520][523]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/MI_Fence_42DEA86294B5C198B4525A7933C7707B8.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/MI_Fence_4.uasset'
+[2024.03.19-21.01.00:527][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 10.1 sec)
+[2024.03.19-21.01.00:529][523]AssetCheck: New page: Asset Save: MI_Fence_4
+[2024.03.19-21.01.00:529][523]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Meshes/Fence/MI_Fence_4.MI_Fence_4
+[2024.03.19-21.01.01:203][567]LogViewport: Scene viewport resized to 1332x917, mode Windowed.
+[2024.03.19-21.01.01:287][569]LogViewport: Scene viewport resized to 746x467, mode Windowed.
+[2024.03.19-21.01.01:304][570]LogViewport: Scene viewport resized to 548x315, mode Windowed.
+[2024.03.19-21.01.01:572][591]LogViewport: Scene viewport resized to 1335x894, mode Windowed.
+[2024.03.19-21.01.01:811][609]LogSlate: Window 'MI_Fence_4' being destroyed
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 0 (Found bundle for host: 0x7bdeb950c90 [serially])
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 6 (Closing connection)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E181E72-4690-0CEC-30A1-A6BA97E7C383%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=e92cdcf642bde5f2608c24bd6d684a31%7C78afdb90ac8647e6a52daa91913c8f61%7Cf06beeaa-581b-4fa6-9988-23e347fd4d57&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 9 (  Trying 52.206.238.140:443...)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (52.206.238.140) port 443)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 25 (Server certificate:)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 34 (Closing connection)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: 000007BFB5B27800: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.19-21.01.16:602][787]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E181E72-4690-0CEC-30A1-A6BA97E7C383%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=e92cdcf642bde5f2608c24bd6d684a31%7C78afdb90ac8647e6a52daa91913c8f61%7Cf06beeaa-581b-4fa6-9988-23e347fd4d57&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.19-21.01.19:320][996]LogContentBrowser: Attempting asset rename: barrieres_substance_low_barriere_004_Normal -> Fence_4_Nrm
+[2024.03.19-21.01.19:346][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-21.01.19:393][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/Maps/Fence_4_Nrm" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/Maps/Fence_4_Nrm.uasset" SILENT=true
+[2024.03.19-21.01.19:460][996]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/Maps/Fence_4_Nrm
+[2024.03.19-21.01.19:460][996]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Fence_4_Nrm8CF8C19847A0FE9B7B95479B9192D494.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/Maps/Fence_4_Nrm.uasset'
+[2024.03.19-21.01.19:468][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 10.3 sec)
+[2024.03.19-21.01.19:482][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.03.19-21.01.19:492][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.03.19-21.01.19:502][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.03.19-21.01.19:503][996]AssetCheck: New page: Asset Save: Fence_4_Nrm
+[2024.03.19-21.01.19:503][996]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Meshes/Fence/Maps/Fence_4_Nrm.Fence_4_Nrm
+[2024.03.19-21.01.28:572][694]LogContentBrowser: Attempting asset rename: barrieres_substance_low_barriere_004_OcclusionRoughnessMetallic -> Fence_4_Arm
+[2024.03.19-21.01.28:598][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-21.01.28:643][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/Maps/Fence_4_Arm" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/Maps/Fence_4_Arm.uasset" SILENT=true
+[2024.03.19-21.01.28:695][694]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/Maps/Fence_4_Arm
+[2024.03.19-21.01.28:695][694]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Fence_4_ArmD671549F460F9320105F109A11690DF6.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/Maps/Fence_4_Arm.uasset'
+[2024.03.19-21.01.28:703][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 10.4 sec)
+[2024.03.19-21.01.28:718][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.03.19-21.01.28:728][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.03.19-21.01.28:737][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.03.19-21.01.28:738][694]AssetCheck: New page: Asset Save: Fence_4_Arm
+[2024.03.19-21.01.28:738][694]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Meshes/Fence/Maps/Fence_4_Arm.Fence_4_Arm
+[2024.03.19-21.01.31:050][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-21.01.31:104][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.03.19-21.01.31:115][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.03.19-21.01.31:123][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.03.19-21.01.31:129][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 10.4 sec)
+[2024.03.19-21.01.53:033][284]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-21.01.53:121][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/MI_Fence_4" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/MI_Fence_4.uasset" SILENT=true
+[2024.03.19-21.01.53:134][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.03.19-21.01.53:147][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.03.19-21.01.53:149][284]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/MI_Fence_4
+[2024.03.19-21.01.53:149][284]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/MI_Fence_421A6CEE247297F3E58F9A5B0F4CB31B4.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/MI_Fence_4.uasset'
+[2024.03.19-21.01.53:154][284]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 10.6 sec)
+[2024.03.19-21.01.53:157][284]AssetCheck: New page: Asset Save: MI_Fence_4
+[2024.03.19-21.01.53:157][284]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Meshes/Fence/MI_Fence_4.MI_Fence_4
+[2024.03.19-21.01.54:547][404]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-21.01.54:547][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.01.59:017][739]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Fence/barrieres_4.barrieres_4
+[2024.03.19-21.01.59:106][739]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-21.01.59:106][739]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.19-21.01.59:440][739]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.03.19-21.02.08:745][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-21.02.08:815][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Fence/barrieres_4" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/barrieres_4.uasset" SILENT=true
+[2024.03.19-21.02.08:818][184]LogSavePackage: Moving output files for package: /Game/Meshes/Fence/barrieres_4
+[2024.03.19-21.02.08:818][184]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/barrieres_494BFB6D74461B21ADF049C80738259D3.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/Meshes/Fence/barrieres_4.uasset'
+[2024.03.19-21.02.08:823][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 10.6 sec)
+[2024.03.19-21.02.08:831][184]AssetCheck: New page: Asset Save: barrieres_4
+[2024.03.19-21.02.08:831][184]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/Fence/barrieres_4.barrieres_4
+[2024.03.19-21.02.09:602][223]LogSlate: Window 'barrieres_4' being destroyed
+[2024.03.19-21.02.09:648][223]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-21.02.09:648][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.02.32:721][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-21.02.32:813][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.03.19-21.02.32:826][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.19-21.02.32:835][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.03.19-21.02.32:841][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 10.8 sec)
