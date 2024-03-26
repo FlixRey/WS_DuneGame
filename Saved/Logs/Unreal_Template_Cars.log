@@ -13729,3 +13729,318 @@ PlayerCameraManager0
 [2024.03.26-16.43.58:069][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
 [2024.03.26-16.43.58:091][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
 [2024.03.26-16.43.58:132][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 205 ms (total: 22.8 sec)
+[2024.03.26-16.45.28:778][837]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GD_Template/Blueprints/BP_Coin_parent.BP_Coin_parent
+[2024.03.26-16.45.28:778][837]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-16.45.28:778][837]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-16.45.28:990][837]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-16.45.51:800][250]LogViewport: Scene viewport resized to 843x497, mode Windowed.
+[2024.03.26-16.46.27:282][950]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/guepe/guepe/Guepe_LP10_Segments_low.Guepe_LP10_Segments_low
+[2024.03.26-16.46.27:300][950]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/guepe/guepe/Guepe_LP10_Segments_low) ...
+[2024.03.26-16.46.27:544][950]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-16.46.27:544][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-16.46.28:359][950]LogViewport: Scene viewport resized to 1058x660, mode Windowed.
+[2024.03.26-16.46.31:955][ 47]LogMeshUtilities: Finished distance field build in 1.5s - 56x84x63 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 84% occupied, 74 triangles, Guepe_LP10_Segments_low
+[2024.03.26-16.46.33:603][ 90]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-16.46.33:603][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-16.46.36:434][192]LogSlate: Window 'BP_Coin_parent' being destroyed
+[2024.03.26-16.46.36:455][192]LogSlate: Window 'BP_Coin_parent' being destroyed
+[2024.03.26-16.46.36:464][192]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-16.46.36:464][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-16.47.19:183][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.03.26-16.47.19:186][377]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap' took 0.028
+[2024.03.26-16.47.19:186][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/guepe/guepe/Guepe_LP10_Segments_low] ([1] browsable assets)...
+[2024.03.26-16.47.19:240][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/guepe/guepe/Guepe_LP10_Segments_low.Guepe_LP10_Segments_low]
+[2024.03.26-16.47.19:240][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/guepe/guepe/Guepe_LP10_Segments_low]
+[2024.03.26-16.47.19:299][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/guepe/guepe/Guepe_LP10_Segments_low_Auto5
+[2024.03.26-16.47.19:300][377]LogSavePackage: Moving 'C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Saved/Guepe_LP10_Segments_low_Auto5524FF9804A9EC4638CE55C850323B7CD.tmp' to 'C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/guepe/guepe/Guepe_LP10_Segments_low_Auto5.uasset'
+[2024.03.26-16.47.19:301][377]LogFileHelpers: Auto-saving content packages took 0.115
+[2024.03.26-16.48.07:880][205]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/felix.reygner/Desktop/JeuDune/SacEpice.fbx)
+[2024.03.26-16.48.07:992][205]LogFbx: Loading FBX Scene from C:/Users/felix.reygner/Desktop/JeuDune/SacEpice.fbx
+[2024.03.26-16.48.08:006][205]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.26-16.48.09:344][205]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.26-16.48.09:615][205]LogStaticMesh: Display: Building static mesh SacEpice...
+[2024.03.26-16.48.09:689][205]LogStaticMesh: Built static mesh [0.07s] /Game/Meshes/Sacs_Epices/SacEpice.SacEpice
+[2024.03.26-16.48.12:236][359]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Sacs_Epices/SacEpice.SacEpice
+[2024.03.26-16.48.12:305][359]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-16.48.12:305][359]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-16.48.13:052][359]LogViewport: Scene viewport resized to 1058x660, mode Windowed.
+[2024.03.26-16.48.28:624][889]LogSlate: Window 'SacEpice' being destroyed
+[2024.03.26-16.48.28:726][889]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-16.48.28:726][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-16.48.37:254][285]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GD_Template/Blueprints/BP_Coin_parent.BP_Coin_parent
+[2024.03.26-16.48.37:254][285]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-16.48.37:254][285]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-16.48.39:317][366]LogViewport: Scene viewport resized to 843x497, mode Windowed.
+[2024.03.26-16.49.02:250][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-16.49.02:366][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD_Template/Blueprints/BP_Coin_parent" FILE="C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Content/GD_Template/Blueprints/BP_Coin_parent.uasset" SILENT=true
+[2024.03.26-16.49.02:378][183]LogSavePackage: Moving output files for package: /Game/GD_Template/Blueprints/BP_Coin_parent
+[2024.03.26-16.49.02:378][183]LogSavePackage: Moving 'C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Saved/BP_Coin_parent5642C6804BF82176160ACCAC0171D50F.tmp' to 'C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Content/GD_Template/Blueprints/BP_Coin_parent.uasset'
+[2024.03.26-16.49.02:390][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 23.0 sec)
+[2024.03.26-16.49.02:392][183]AssetCheck: New page: Asset Save: BP_Coin_parent
+[2024.03.26-16.49.02:392][183]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GD_Template/Blueprints/BP_Coin_parent.BP_Coin_parent
+[2024.03.26-16.49.12:495][615]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Sacs_Epices/SacEpice.SacEpice
+[2024.03.26-16.49.12:540][615]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-16.49.12:540][615]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-16.49.13:300][615]LogViewport: Scene viewport resized to 1058x660, mode Windowed.
+[2024.03.26-16.49.17:923][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-16.49.18:038][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Sacs_Epices/SacEpice" FILE="C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Content/Meshes/Sacs_Epices/SacEpice.uasset" SILENT=true
+[2024.03.26-16.49.18:069][747]LogSavePackage: Moving output files for package: /Game/Meshes/Sacs_Epices/SacEpice
+[2024.03.26-16.49.18:069][747]LogSavePackage: Moving 'C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Saved/SacEpiceFE8D173B42502D163C7B54A72F41001D.tmp' to 'C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Content/Meshes/Sacs_Epices/SacEpice.uasset'
+[2024.03.26-16.49.18:098][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 23.1 sec)
+[2024.03.26-16.49.18:100][747]AssetCheck: New page: Asset Save: SacEpice
+[2024.03.26-16.49.18:100][747]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/Sacs_Epices/SacEpice.SacEpice
+[2024.03.26-16.49.18:984][771]LogViewport: Scene viewport resized to 1121x691, mode Windowed.
+[2024.03.26-16.49.19:236][772]LogViewport: Scene viewport resized to 1118x709, mode Windowed.
+[2024.03.26-16.49.19:360][774]LogViewport: Scene viewport resized to 1121x691, mode Windowed.
+[2024.03.26-16.49.20:902][833]LogViewport: Scene viewport resized to 1055x683, mode Windowed.
+[2024.03.26-16.49.21:001][835]LogViewport: Scene viewport resized to 631x367, mode Windowed.
+[2024.03.26-16.49.21:045][836]LogViewport: Scene viewport resized to 577x326, mode Windowed.
+[2024.03.26-16.49.21:239][848]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.03.26-16.49.21:607][864]LogSlate: Window 'SacEpice' being destroyed
+[2024.03.26-16.49.28:067][362]LogTexture: Display: Building textures: /Game/Meshes/Sacs_Epices/Maps/sac_epice_low_SAC_TEXTURE_OcclusionRoughnessMetallic_1.sac_epice_low_SAC_TEXTURE_OcclusionRoughnessMetallic_1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.03.26-16.49.28:085][362]LogTexture: Display: Building textures: /Game/Meshes/Sacs_Epices/Maps/sac_epice_low_SAC_TEXTURE_BaseColor_1.sac_epice_low_SAC_TEXTURE_BaseColor_1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.03.26-16.49.28:098][362]LogTexture: Display: Building textures: /Game/Meshes/Sacs_Epices/Maps/sac_epice_low_SAC_TEXTURE_Normal_1.sac_epice_low_SAC_TEXTURE_Normal_1 (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.03.26-16.49.29:152][439]LogShaderCompilers: Display: ================================================
+[2024.03.26-16.49.29:152][439]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.26-16.49.29:152][439]LogShaderCompilers: Display: Total job queries 122, among them cache hits 39 (31.97%)
+[2024.03.26-16.49.29:152][439]LogShaderCompilers: Display: Tracking 80 distinct input hashes that result in 57 distinct outputs (71.25%)
+[2024.03.26-16.49.29:152][439]LogShaderCompilers: Display: RAM used: 1,64 MiB of 819,20 MiB budget. Usage: 0.20%
+[2024.03.26-16.49.29:152][439]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.26-16.49.29:152][439]LogShaderCompilers: Display: Shaders Compiled: 3
+[2024.03.26-16.49.29:152][439]LogShaderCompilers: Display: Jobs assigned 6, completed 3 (50.00%)
+[2024.03.26-16.49.29:152][439]LogShaderCompilers: Display: Average time worker was idle: 12426.95 s
+[2024.03.26-16.49.29:152][439]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.03 s
+[2024.03.26-16.49.29:152][439]LogShaderCompilers: Display: Job execution time: average 2.44 s, max 3.87 s
+[2024.03.26-16.49.29:152][439]LogShaderCompilers: Display: Job life time (pending + execution): average 2.46 s, max 3.87
+[2024.03.26-16.49.29:152][439]LogShaderCompilers: Display: Shader code size: average 49,229 KiB, min 32,836 KiB, max 57,727 KiB
+[2024.03.26-16.49.29:152][439]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.38 s
+[2024.03.26-16.49.29:152][439]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.26-16.49.29:152][439]LogShaderCompilers: Display: Average processing rate: 0.41 jobs/sec
+[2024.03.26-16.49.29:152][439]LogShaderCompilers: Display: Total thread time: 2,096 s
+[2024.03.26-16.49.29:153][439]LogShaderCompilers: Display: Total thread preprocess time: 1,189 s
+[2024.03.26-16.49.29:153][439]LogShaderCompilers: Display: Percentage time preprocessing: 56.73%
+[2024.03.26-16.49.29:153][439]LogShaderCompilers: Display: Effective parallelization: 0.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.03.26-16.49.29:153][439]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.03.26-16.49.29:153][439]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.93 sec, max 1.28 sec, min 0.59 sec)
+[2024.03.26-16.49.29:153][439]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2024.03.26-16.49.29:153][439]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.03.26-16.49.29:153][439]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 89.19% of total time (compiled    2 times, average 0.93 sec, max 1.28 sec, min 0.59 sec)
+[2024.03.26-16.49.29:153][439]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.81% of total time (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2024.03.26-16.49.29:153][439]LogShaderCompilers: Display: ================================================
+[2024.03.26-16.49.34:768][894]LogTexture: Display: Building textures: /Game/Meshes/Sacs_Epices/Maps/epice_low_EPICE_BaseColor_1.epice_low_EPICE_BaseColor_1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.03.26-16.49.34:770][894]LogTexture: Display: Building textures: /Game/Meshes/Sacs_Epices/Maps/epice_low_EPICE_OcclusionRoughnessMetallic_1.epice_low_EPICE_OcclusionRoughnessMetallic_1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.03.26-16.49.34:789][894]LogTexture: Display: Building textures: /Game/Meshes/Sacs_Epices/Maps/epice_low_EPICE_Normal_1.epice_low_EPICE_Normal_1 (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.03.26-16.50.13:512][324]LogStaticMesh: Display: Building static mesh sac_epice_low_sand_low...
+[2024.03.26-16.50.13:525][324]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Sacs_Epices/sac_epice_low_sand_low.sac_epice_low_sand_low
+[2024.03.26-16.50.45:002][ 11]LogStaticMesh: Display: Building static mesh sac_epice_low_petite_corde_low...
+[2024.03.26-16.50.45:017][ 11]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Sacs_Epices/sac_epice_low_petite_corde_low.sac_epice_low_petite_corde_low
+[2024.03.26-16.51.01:920][671]BlueprintLog: New page: Compile BP_Coin_parent
+[2024.03.26-16.51.02:001][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.03.26-16.51.12:196][688]LogEditorTransaction: Undo Remove Components
+[2024.03.26-16.51.12:492][688]LogEditorTransaction: Undo Set Scale
+[2024.03.26-16.51.12:683][688]LogEditorTransaction: Undo Remove Components
+[2024.03.26-16.51.12:883][688]LogEditorTransaction: Undo Edit Static Mesh
+[2024.03.26-16.51.13:085][688]LogEditorTransaction: Undo Edit Static Mesh
+[2024.03.26-16.51.13:286][688]LogEditorTransaction: Undo Replace component used material
+[2024.03.26-16.51.14:864][773]LogEditorTransaction: Undo Edit Static Mesh
+[2024.03.26-16.51.15:205][774]LogEditorTransaction: Undo Rename Component Variable
+[2024.03.26-16.51.15:567][780]LogEditorTransaction: Undo Add Component
+[2024.03.26-16.51.16:006][799]LogEditorTransaction: Undo Replace component used material
+[2024.03.26-16.51.16:330][801]LogEditorTransaction: Undo Replace component used material
+[2024.03.26-16.51.16:641][805]LogEditorTransaction: Undo Staticmesh editor: Add material slot
+[2024.03.26-16.51.17:328][855]LogEditorTransaction: Undo Modify Component(s)
+[2024.03.26-16.51.18:272][929]LogEditorTransaction: Undo Set Scale
+[2024.03.26-16.51.18:858][936]LogEditorTransaction: Undo Set Scale
+[2024.03.26-16.51.19:442][973]LogEditorTransaction: Undo Edit Static Mesh
+[2024.03.26-16.51.21:080][117]BlueprintLog: New page: Compile BP_Coin_parent
+[2024.03.26-16.51.21:129][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.03.26-16.51.33:543][738]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GD_Template/Blueprints/BP_Coin_parent.BP_Coin_parent_C
+[2024.03.26-16.51.33:543][738]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GD_Template/Blueprints/BP_Coin_parent.BP_Coin_parent_C
+[2024.03.26-16.51.33:546][738]LogActorFactory: Actor Factory spawned Blueprint /Game/GD_Template/Blueprints/BP_Coin_parent.BP_Coin_parent as actor: BP_Coin_parent_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Coin_parent_C_0
+[2024.03.26-16.51.33:548][738]LogActorFactory: Actor Factory spawned Blueprint /Game/GD_Template/Blueprints/BP_Coin_parent.BP_Coin_parent as actor: BP_Coin_parent_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Coin_parent_C_0
+[2024.03.26-16.51.34:534][781]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GD_Template/Blueprints/BP_Coin_parent.BP_Coin_parent_C
+[2024.03.26-16.51.34:534][781]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GD_Template/Blueprints/BP_Coin_parent.BP_Coin_parent_C
+[2024.03.26-16.51.34:544][781]LogActorFactory: Actor Factory spawned Blueprint /Game/GD_Template/Blueprints/BP_Coin_parent.BP_Coin_parent as actor: BP_Coin_parent_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Coin_parent_C_UAID_DC4A3E73C91F2CE601_1860860814
+[2024.03.26-16.51.34:547][781]LogActorFactory: Actor Factory spawned Blueprint /Game/GD_Template/Blueprints/BP_Coin_parent.BP_Coin_parent as actor: BP_Coin_parent_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Coin_parent_C_UAID_DC4A3E73C91F2CE601_1860860814
+[2024.03.26-16.51.47:712][682]BlueprintLog: New page: Compile BP_Coin_parent
+[2024.03.26-16.51.47:771][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.03.26-16.51.48:336][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-16.51.48:409][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD_Template/Blueprints/BP_Coin_parent" FILE="C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Content/GD_Template/Blueprints/BP_Coin_parent.uasset" SILENT=true
+[2024.03.26-16.51.48:421][719]LogSavePackage: Moving output files for package: /Game/GD_Template/Blueprints/BP_Coin_parent
+[2024.03.26-16.51.48:421][719]LogSavePackage: Moving 'C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Saved/BP_Coin_parent9675E5724226E56D5256DDBAED29ACBC.tmp' to 'C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Content/GD_Template/Blueprints/BP_Coin_parent.uasset'
+[2024.03.26-16.51.48:432][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 23.2 sec)
+[2024.03.26-16.51.48:433][719]AssetCheck: New page: Asset Save: BP_Coin_parent
+[2024.03.26-16.51.48:433][719]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GD_Template/Blueprints/BP_Coin_parent.BP_Coin_parent
+[2024.03.26-16.51.52:670][930]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-16.51.52:670][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-16.52.00:579][665]BlueprintLog: New page: Compile BP_Coin_parent
+[2024.03.26-16.52.00:634][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.03.26-16.52.09:322][ 85]LogContentBundle: [TestMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.26-16.52.09:322][ 85]LogWorldPartition: Display: GenerateStreaming for 'TestMap' started...
+[2024.03.26-16.52.09:333][ 85]LogWorldPartition: Display: GenerateStreaming for 'TestMap' took 10 ms (total: 1.28 sec)
+[2024.03.26-16.52.09:335][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-16.52.09:335][ 85]PIE: New page: SIE session: TestMap (26 mars 2024 à 18:52:09)
+[2024.03.26-16.52.09:335][ 85]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-16.52.10:002][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.667465s)
+[2024.03.26-16.52.10:002][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.667508s)
+[2024.03.26-16.52.10:019][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.03.26-16.52.10:023][ 85]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-16.52.10:024][ 85]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-16.52.10:024][ 85]LogAIModule: Creating AISystem for world TestMap
+[2024.03.26-16.52.10:025][ 85]LogWorldPartition: ULevel::OnLevelLoaded(TestMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.26-16.52.10:025][ 85]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.26-16.52.10:025][ 85]LogWorldPartition: UWorldPartition::Initialize : World = TestMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.26-16.52.10:025][ 85]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.26-16.52.10:042][ 85]LogContentBundle: [TestMap(Standalone)] Creating new contrainer.
+[2024.03.26-16.52.10:042][ 85]LogWorldPartition: Display: WorldPartition initialize took 16 ms (total: 3.77 sec)
+[2024.03.26-16.52.10:042][ 85]LogPlayLevel: PIE: World Init took: (0.018341s)
+[2024.03.26-16.52.10:042][ 85]LogAudio: Display: Creating Audio Device:                 Id: 115, Scope: Unique, Realtime: True
+[2024.03.26-16.52.10:042][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-16.52.10:042][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-16.52.10:042][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-16.52.10:042][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-16.52.10:042][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-16.52.10:042][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-16.52.10:042][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-16.52.10:042][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-16.52.10:043][ 85]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-16.52.10:043][ 85]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-16.52.10:043][ 85]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-16.52.10:047][ 85]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-16.52.10:074][ 85]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek High Definition Audio)
+[2024.03.26-16.52.10:074][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-16.52.10:075][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-16.52.10:075][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-16.52.10:076][ 85]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=115
+[2024.03.26-16.52.10:076][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=115
+[2024.03.26-16.52.10:078][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=115
+[2024.03.26-16.52.10:078][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=115
+[2024.03.26-16.52.10:078][ 85]LogInit: FAudioDevice initialized with ID 115.
+[2024.03.26-16.52.10:078][ 85]LogAudio: Display: Audio Device (ID: 115) registered with world 'TestMap'.
+[2024.03.26-16.52.10:078][ 85]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 115
+[2024.03.26-16.52.10:082][ 85]LogLoad: Game class is 'GM_TemplateGameMode_C'
+[2024.03.26-16.52.10:113][ 85]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2024.03.26-17.52.10
+[2024.03.26-16.52.10:113][ 85]LogWorld: Bringing up level for play took: 0.030654
+[2024.03.26-16.52.10:116][ 85]LogOnline: OSS: Created online subsystem instance for: :Context_206
+[2024.03.26-16.52.10:141][ 85]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.03.26-16.52.10:142][ 85]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.26-16.52.10:168][ 85]r.MotionBlur.Amount = "0"
+[2024.03.26-16.52.10:169][ 85]PIE: Server logged in
+[2024.03.26-16.52.10:170][ 85]PIE: Play in editor total start time 0,847 seconds.
+[2024.03.26-16.52.16:358][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-16.52.16:358][352]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-16.52.16:359][352]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-16.52.16:364][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-16.52.16:365][352]LogContentBundle: [TestMap(Standalone)] Deleting container.
+[2024.03.26-16.52.16:430][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-16.52.16:437][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-16.52.16:462][352]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-16.52.16:462][352]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 115
+[2024.03.26-16.52.16:462][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=115
+[2024.03.26-16.52.16:465][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=115
+[2024.03.26-16.52.16:471][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-16.52.16:482][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.03.26-16.52.16:532][353]LogPlayLevel: Display: Destroying online subsystem :Context_206
+[2024.03.26-16.52.20:085][643]LogContentBundle: [TestMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.26-16.52.20:085][643]LogWorldPartition: Display: GenerateStreaming for 'TestMap' started...
+[2024.03.26-16.52.20:097][643]LogWorldPartition: Display: GenerateStreaming for 'TestMap' took 11 ms (total: 1.29 sec)
+[2024.03.26-16.52.20:097][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-16.52.20:097][643]PIE: New page: PIE session: TestMap (26 mars 2024 à 18:52:20)
+[2024.03.26-16.52.20:097][643]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-16.52.20:801][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.703864s)
+[2024.03.26-16.52.20:801][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.703907s)
+[2024.03.26-16.52.20:820][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.03.26-16.52.20:822][643]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-16.52.20:823][643]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-16.52.20:823][643]LogAIModule: Creating AISystem for world TestMap
+[2024.03.26-16.52.20:824][643]LogWorldPartition: ULevel::OnLevelLoaded(TestMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.26-16.52.20:824][643]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.26-16.52.20:824][643]LogWorldPartition: UWorldPartition::Initialize : World = TestMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.26-16.52.20:824][643]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.26-16.52.20:840][643]LogContentBundle: [TestMap(Standalone)] Creating new contrainer.
+[2024.03.26-16.52.20:841][643]LogWorldPartition: Display: WorldPartition initialize took 15 ms (total: 3.79 sec)
+[2024.03.26-16.52.20:841][643]LogPlayLevel: PIE: World Init took: (0.017738s)
+[2024.03.26-16.52.20:841][643]LogAudio: Display: Creating Audio Device:                 Id: 116, Scope: Unique, Realtime: True
+[2024.03.26-16.52.20:841][643]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-16.52.20:841][643]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-16.52.20:841][643]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-16.52.20:841][643]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-16.52.20:841][643]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-16.52.20:841][643]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-16.52.20:841][643]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-16.52.20:841][643]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-16.52.20:842][643]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-16.52.20:842][643]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-16.52.20:842][643]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-16.52.20:844][643]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-16.52.20:869][643]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek High Definition Audio)
+[2024.03.26-16.52.20:870][643]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-16.52.20:870][643]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-16.52.20:870][643]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-16.52.20:870][643]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=116
+[2024.03.26-16.52.20:870][643]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=116
+[2024.03.26-16.52.20:873][643]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=116
+[2024.03.26-16.52.20:873][643]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=116
+[2024.03.26-16.52.20:873][643]LogInit: FAudioDevice initialized with ID 116.
+[2024.03.26-16.52.20:873][643]LogAudio: Display: Audio Device (ID: 116) registered with world 'TestMap'.
+[2024.03.26-16.52.20:873][643]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 116
+[2024.03.26-16.52.20:877][643]LogLoad: Game class is 'GM_TemplateGameMode_C'
+[2024.03.26-16.52.20:906][643]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2024.03.26-17.52.20
+[2024.03.26-16.52.20:907][643]LogWorld: Bringing up level for play took: 0.029074
+[2024.03.26-16.52.20:910][643]LogOnline: OSS: Created online subsystem instance for: :Context_207
+[2024.03.26-16.52.20:911][643]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.26-16.52.20:914][643]LogLevelSequence: Starting new camera cut: 'CineCameraActor_UAID_DC4A3E73C91F15E601_1782349738'
+[2024.03.26-16.52.20:918][643]LogConsoleVariablesEditor: Display: FConsoleVariablesEditorModule::SendMultiUserConsoleVariableChange: Play In Editor is about to start or has started; Multi-User Cvar sync is suspended during PIE.
+[2024.03.26-16.52.20:918][643]r.MotionBlur.Amount = "0"
+[2024.03.26-16.52.20:920][643]PIE: Server logged in
+[2024.03.26-16.52.20:920][643]PIE: Play in editor total start time 0,835 seconds.
+[2024.03.26-16.52.28:553][ 69]LogLevelSequence: Starting new camera cut: 'BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919'
+[2024.03.26-16.52.28:555][ 69]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Sounds_Go' of length 0 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-16.52.28:555][ 69]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_114.BPW_MainHUD_C_0
+[2024.03.26-16.52.30:052][162]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Sounds_Go' of length 0 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-16.52.30:052][162]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_114.BPW_MainHUD_C_0
+[2024.03.26-16.52.31:569][256]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Sounds_Go' of length 0 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-16.52.31:569][256]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_114.BPW_MainHUD_C_0
+[2024.03.26-16.52.33:086][351]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Sounds_Go' of length 0 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-16.52.33:086][351]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_114.BPW_MainHUD_C_0
+[2024.03.26-16.53.38:696][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-16.53.38:696][531]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-16.53.38:696][531]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-16.53.38:700][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-16.53.38:701][531]LogContentBundle: [TestMap(Standalone)] Deleting container.
+[2024.03.26-16.53.38:708][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-16.53.38:716][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-16.53.38:734][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-16.53.38:738][531]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 116
+[2024.03.26-16.53.38:738][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=116
+[2024.03.26-16.53.38:740][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=116
+[2024.03.26-16.53.38:755][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.03.26-16.53.38:828][532]LogPlayLevel: Display: Destroying online subsystem :Context_207
+[2024.03.26-16.58.36:215][712]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-16.58.36:322][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.03.26-16.58.36:342][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.26-16.58.36:363][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.03.26-16.58.36:367][712]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/TestMap/D/R8/H8WD1LZTK2HLBXTF5OFYBT
+[2024.03.26-16.58.36:367][712]LogSavePackage: Moving 'C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Saved/H8WD1LZTK2HLBXTF5OFYBTB443E57D417A30E79C2F2482A086BC60.tmp' to 'C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Content/__ExternalActors__/Maps/TestMap/D/R8/H8WD1LZTK2HLBXTF5OFYBT.uasset'
+[2024.03.26-16.58.36:849][712]LogFileHelpers: InternalPromptForCheckoutAndSave took 633 ms (total: 23.9 sec)
+[2024.03.26-16.58.36:851][712]AssetCheck: New page: Asset Save: BP_Coin_parent_C_UAID_DC4A3E73C91F2CE601_1860860814
+[2024.03.26-16.58.36:851][712]LogContentValidation: Display: Validating /Game/GD_Template/Blueprints/BP_Coin_parent.BP_Coin_parent_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Coin_parent_C_UAID_DC4A3E73C91F2CE601_1860860814
+[2024.03.26-16.58.39:100][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.03.26-16.58.39:106][819]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-16.58.39:175][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD_Template/Race/BP_RaceManager" FILE="C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Content/GD_Template/Race/BP_RaceManager.uasset" SILENT=true
+[2024.03.26-16.58.39:202][819]LogSavePackage: Moving output files for package: /Game/GD_Template/Race/BP_RaceManager
+[2024.03.26-16.58.39:203][819]LogSavePackage: Moving 'C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Saved/BP_RaceManager0E15876942D969A33F699D816A2C31F5.tmp' to 'C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Content/GD_Template/Race/BP_RaceManager.uasset'
+[2024.03.26-16.58.39:210][819]LogSavePackage: Moving output files for package: /Game/Meshes/BluePrints/Fence_BP/BP_Fence_curved_1
+[2024.03.26-16.58.39:211][819]LogSavePackage: Moving 'C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Saved/BP_Fence_curved_1A0EB092B42C27694ECF44EADFB117D19.tmp' to 'C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Content/Meshes/BluePrints/Fence_BP/BP_Fence_curved_1.uasset'
+[2024.03.26-16.58.39:244][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD_Template/Blueprints/BP_Coin_parent" FILE="C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Content/GD_Template/Blueprints/BP_Coin_parent.uasset" SILENT=true
+[2024.03.26-16.58.39:254][819]LogSavePackage: Moving output files for package: /Game/GD_Template/Blueprints/BP_Coin_parent
+[2024.03.26-16.58.39:255][819]LogSavePackage: Moving 'C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Saved/BP_Coin_parent9D93F590442627B85B275C807CE43255.tmp' to 'C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Content/GD_Template/Blueprints/BP_Coin_parent.uasset'
+[2024.03.26-16.58.39:257][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/guepe/guepe/Guepe_LP10_Segments_low" FILE="C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Content/guepe/guepe/Guepe_LP10_Segments_low.uasset" SILENT=true
+[2024.03.26-16.58.39:260][819]LogSavePackage: Moving output files for package: /Game/guepe/guepe/Guepe_LP10_Segments_low
+[2024.03.26-16.58.39:260][819]LogSavePackage: Moving 'C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Saved/Guepe_LP10_Segments_lowFC4F8C0F4E76009CD34CCB979F6E15F4.tmp' to 'C:/Users/felix.reygner/Documents/GitHub/WS_DuneGame/Content/guepe/guepe/Guepe_LP10_Segments_low.uasset'
+[2024.03.26-16.58.39:272][819]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 24.0 sec)
+[2024.03.26-16.58.39:279][819]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.26-16.58.39:279][819]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GD_Template/Race/BP_RaceManager.BP_RaceManager
+[2024.03.26-16.58.39:279][819]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Meshes/BluePrints/Fence_BP/BP_Fence_curved_1.BP_Fence_curved_1
+[2024.03.26-16.58.39:279][819]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GD_Template/Blueprints/BP_Coin_parent.BP_Coin_parent
+[2024.03.26-16.58.39:279][819]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/guepe/guepe/Guepe_LP10_Segments_low.Guepe_LP10_Segments_low
