@@ -1977,3 +1977,1243 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2024.03.26-20.21.04:278][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
 [2024.03.26-20.21.04:287][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
 [2024.03.26-20.21.04:354][396]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.03.26-20.21.40:579][643]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-20.21.40:619][644]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-20.21.40:640][645]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-20.21.41:831][779]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GD_Template/Blueprints/BP_Coin_parent.BP_Coin_parent
+[2024.03.26-20.21.41:831][779]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-20.21.41:831][779]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-20.21.42:037][779]LogViewport: Scene viewport resized to 1912x291, mode Windowed.
+[2024.03.26-20.21.55:978][354]BlueprintLog: New page: Compile BP_Coin_parent
+[2024.03.26-20.21.56:005][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.03.26-20.21.56:523][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-20.21.56:573][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD_Template/Blueprints/BP_Coin_parent" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/GD_Template/Blueprints/BP_Coin_parent.uasset" SILENT=true
+[2024.03.26-20.21.56:581][402]LogSavePackage: Moving output files for package: /Game/GD_Template/Blueprints/BP_Coin_parent
+[2024.03.26-20.21.56:581][402]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/BP_Coin_parentC102CA454789CDDEF0B1F18645C6D58C.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/GD_Template/Blueprints/BP_Coin_parent.uasset'
+[2024.03.26-20.21.56:588][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 85 ms)
+[2024.03.26-20.21.56:589][402]AssetCheck: New page: Asset Save: BP_Coin_parent
+[2024.03.26-20.21.56:589][402]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GD_Template/Blueprints/BP_Coin_parent.BP_Coin_parent
+[2024.03.26-20.21.57:205][469]LogSlate: Window 'BP_Coin_parent' being destroyed
+[2024.03.26-20.21.57:236][469]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-20.21.57:236][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-20.21.58:035][558]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-20.21.58:040][558]LogContentBundle: [TestMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.26-20.21.58:040][558]LogWorldPartition: Display: GenerateStreaming for 'TestMap' started...
+[2024.03.26-20.21.58:045][558]LogWorldPartition: Display: GenerateStreaming for 'TestMap' took 5 ms (total: 56 ms)
+[2024.03.26-20.21.58:045][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-20.21.58:045][558]PIE: New page: PIE session: TestMap (26 mars 2024 à 22:21:58)
+[2024.03.26-20.21.58:066][558]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-20.21.58:433][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.367094s)
+[2024.03.26-20.21.58:433][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.367162s)
+[2024.03.26-20.21.58:443][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.26-20.21.58:444][558]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-20.21.58:444][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-20.21.58:444][558]LogAIModule: Creating AISystem for world TestMap
+[2024.03.26-20.21.58:444][558]LogWorldPartition: ULevel::OnLevelLoaded(TestMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.26-20.21.58:444][558]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.26-20.21.58:444][558]LogWorldPartition: UWorldPartition::Initialize : World = TestMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.26-20.21.58:444][558]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.26-20.21.58:453][558]LogContentBundle: [TestMap(Standalone)] Creating new contrainer.
+[2024.03.26-20.21.58:453][558]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 2.00 sec)
+[2024.03.26-20.21.58:453][558]LogPlayLevel: PIE: World Init took: (0.009715s)
+[2024.03.26-20.21.58:453][558]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.03.26-20.21.58:453][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-20.21.58:453][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-20.21.58:453][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-20.21.58:453][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-20.21.58:453][558]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-20.21.58:453][558]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-20.21.58:453][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-20.21.58:453][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-20.21.58:453][558]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-20.21.58:453][558]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-20.21.58:453][558]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-20.21.58:456][558]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-20.21.58:466][558]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- High Definition Audio Device)
+[2024.03.26-20.21.58:466][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-20.21.58:466][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-20.21.58:466][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-20.21.58:466][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.03.26-20.21.58:466][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.03.26-20.21.58:468][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.03.26-20.21.58:468][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.03.26-20.21.58:468][558]LogInit: FAudioDevice initialized with ID 12.
+[2024.03.26-20.21.58:468][558]LogAudio: Display: Audio Device (ID: 12) registered with world 'TestMap'.
+[2024.03.26-20.21.58:468][558]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.03.26-20.21.58:470][558]LogLoad: Game class is 'GM_TemplateGameMode_C'
+[2024.03.26-20.21.58:481][558]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2024.03.26-21.21.58
+[2024.03.26-20.21.58:481][558]LogWorld: Bringing up level for play took: 0.010948
+[2024.03.26-20.21.58:483][558]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.03.26-20.21.58:483][558]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.26-20.21.58:485][558]LogLevelSequence: Starting new camera cut: 'CineCameraActor_UAID_DC4A3E73C91F15E601_1782349738'
+[2024.03.26-20.21.58:488][558]r.MotionBlur.Amount = "0"
+[2024.03.26-20.21.58:488][558]PIE: Server logged in
+[2024.03.26-20.21.58:489][558]PIE: Play in editor total start time 0,449 seconds.
+[2024.03.26-20.22.06:106][468]LogLevelSequence: Starting new camera cut: 'BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919'
+[2024.03.26-20.22.06:107][468]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Sounds_Go' of length 0 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.22.06:107][468]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.BPW_MainHUD_C_0
+[2024.03.26-20.22.07:600][647]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Sounds_Go' of length 0 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.22.07:600][647]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.BPW_MainHUD_C_0
+[2024.03.26-20.22.09:100][827]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Sounds_Go' of length 0 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.22.09:100][827]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.BPW_MainHUD_C_0
+[2024.03.26-20.22.10:600][  7]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Sounds_Go' of length 0 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.22.10:600][  7]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.BPW_MainHUD_C_0
+[2024.03.26-20.22.42:377][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-20.22.42:377][817]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-20.22.42:377][817]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-20.22.42:379][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-20.22.42:379][817]LogContentBundle: [TestMap(Standalone)] Deleting container.
+[2024.03.26-20.22.42:383][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-20.22.42:387][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-20.22.42:399][817]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-20.22.42:399][817]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.03.26-20.22.42:399][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.26-20.22.42:400][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.26-20.22.42:403][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-20.22.42:410][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.26-20.22.42:475][818]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.03.26-20.22.44:863][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-20.22.44:917][ 95]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/TestMap/8/IA/TV14W8GPNIL1L5UQ74FM46
+[2024.03.26-20.22.44:917][ 95]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/TV14W8GPNIL1L5UQ74FM46103EF9984FD71907C7341E983AEBB78A.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/__ExternalActors__/Maps/TestMap/8/IA/TV14W8GPNIL1L5UQ74FM46.uasset'
+[2024.03.26-20.22.44:924][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 145 ms)
+[2024.03.26-20.22.44:925][ 95]AssetCheck: New page: Asset Save: BP_RaceManager_C_UAID_DC4A3E73C91FD3E501_1306819123
+[2024.03.26-20.22.44:925][ 95]LogContentValidation: Display: Validating /Game/GD_Template/Race/BP_RaceManager.BP_RaceManager_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_RaceManager_C_UAID_DC4A3E73C91FD3E501_1306819123
+[2024.03.26-20.23.20:805][974]LogViewport: Scene viewport resized to 1912x291, mode Windowed.
+[2024.03.26-20.24.19:767][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.03.26-20.24.19:768][864]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap' took 0.018
+[2024.03.26-20.24.19:769][864]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GD_Template/Race/BP_RaceManager] ([2] browsable assets)...
+[2024.03.26-20.24.19:769][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD_Template/Race/BP_RaceManager]
+[2024.03.26-20.24.19:784][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD_Template/Race/BP_RaceManager_Auto1
+[2024.03.26-20.24.19:784][864]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/BP_RaceManager_Auto141DEBBD84BD7CAB52B5F0E8C714D9CF7.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/GD_Template/Race/BP_RaceManager_Auto1.uasset'
+[2024.03.26-20.24.19:784][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SOUNDS/CarSound] ([1] browsable assets)...
+[2024.03.26-20.24.19:789][864]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/SOUNDS/CarSound.CarSound]
+[2024.03.26-20.24.19:789][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/SOUNDS/CarSound]
+[2024.03.26-20.24.19:789][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/CarSound" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/CarSound_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.03.26-20.24.19:796][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SOUNDS/CarSound_Auto1
+[2024.03.26-20.24.19:796][864]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/CarSound_Auto14BD9D7A04F7CEB5E689B0EA7353C2868.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/CarSound_Auto1.uasset'
+[2024.03.26-20.24.19:797][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SOUNDS/BackgroundSound] ([1] browsable assets)...
+[2024.03.26-20.24.19:811][864]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/SOUNDS/BackgroundSound.BackgroundSound]
+[2024.03.26-20.24.19:811][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/SOUNDS/BackgroundSound]
+[2024.03.26-20.24.19:811][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/BackgroundSound" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/BackgroundSound_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.03.26-20.24.19:846][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SOUNDS/BackgroundSound_Auto1
+[2024.03.26-20.24.19:847][864]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/BackgroundSound_Auto1453F5F3B4129CF81E62EFA87C56C0605.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/BackgroundSound_Auto1.uasset'
+[2024.03.26-20.24.19:847][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SOUNDS/CountDown] ([1] browsable assets)...
+[2024.03.26-20.24.19:852][864]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/SOUNDS/CountDown.CountDown]
+[2024.03.26-20.24.19:852][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/SOUNDS/CountDown]
+[2024.03.26-20.24.19:852][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/CountDown" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/CountDown_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.03.26-20.24.19:856][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SOUNDS/CountDown_Auto1
+[2024.03.26-20.24.19:856][864]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/CountDown_Auto140B8298140E54B96EF58328AED8D08B7.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/CountDown_Auto1.uasset'
+[2024.03.26-20.24.19:857][864]LogFileHelpers: Auto-saving content packages took 0.089
+[2024.03.26-20.27.12:487][238]BlueprintLog: New page: Compile BP_RaceManager
+[2024.03.26-20.27.12:516][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.26-20.27.13:642][335]LogViewport: Scene viewport resized to 1908x299, mode Windowed.
+[2024.03.26-20.27.13:709][337]LogViewport: Scene viewport resized to 1115x147, mode Windowed.
+[2024.03.26-20.27.13:726][338]LogViewport: Scene viewport resized to 788x85, mode Windowed.
+[2024.03.26-20.27.14:678][452]LogViewport: Scene viewport resized to 1912x291, mode Windowed.
+[2024.03.26-20.27.14:759][453]LogViewport: Scene viewport resized to 1908x299, mode Windowed.
+[2024.03.26-20.27.14:841][455]LogViewport: Scene viewport resized to 1122x149, mode Windowed.
+[2024.03.26-20.27.14:881][456]LogSlate: Window 'BP_RaceManager' being destroyed
+[2024.03.26-20.27.14:890][456]LogViewport: Scene viewport resized to 792x89, mode Windowed.
+[2024.03.26-20.27.16:509][645]LogViewport: Scene viewport resized to 1912x291, mode Windowed.
+[2024.03.26-20.27.19:053][923]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-20.27.19:058][923]LogContentBundle: [TestMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.26-20.27.19:058][923]LogWorldPartition: Display: GenerateStreaming for 'TestMap' started...
+[2024.03.26-20.27.19:064][923]LogWorldPartition: Display: GenerateStreaming for 'TestMap' took 5 ms (total: 61 ms)
+[2024.03.26-20.27.19:064][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-20.27.19:064][923]PIE: New page: PIE session: TestMap (26 mars 2024 à 22:27:19)
+[2024.03.26-20.27.19:086][923]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-20.27.19:458][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.373100s)
+[2024.03.26-20.27.19:458][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.373148s)
+[2024.03.26-20.27.19:467][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.26-20.27.19:467][923]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-20.27.19:468][923]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-20.27.19:468][923]LogAIModule: Creating AISystem for world TestMap
+[2024.03.26-20.27.19:468][923]LogWorldPartition: ULevel::OnLevelLoaded(TestMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.26-20.27.19:469][923]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.26-20.27.19:469][923]LogWorldPartition: UWorldPartition::Initialize : World = TestMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.26-20.27.19:469][923]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.26-20.27.19:478][923]LogContentBundle: [TestMap(Standalone)] Creating new contrainer.
+[2024.03.26-20.27.19:478][923]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 2.01 sec)
+[2024.03.26-20.27.19:478][923]LogPlayLevel: PIE: World Init took: (0.009896s)
+[2024.03.26-20.27.19:478][923]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.03.26-20.27.19:478][923]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-20.27.19:478][923]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-20.27.19:478][923]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-20.27.19:478][923]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-20.27.19:478][923]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-20.27.19:478][923]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-20.27.19:478][923]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-20.27.19:478][923]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-20.27.19:478][923]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-20.27.19:478][923]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-20.27.19:478][923]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-20.27.19:480][923]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-20.27.19:489][923]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- High Definition Audio Device)
+[2024.03.26-20.27.19:490][923]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-20.27.19:490][923]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-20.27.19:490][923]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-20.27.19:491][923]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.03.26-20.27.19:491][923]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.03.26-20.27.19:492][923]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.03.26-20.27.19:492][923]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.03.26-20.27.19:492][923]LogInit: FAudioDevice initialized with ID 13.
+[2024.03.26-20.27.19:492][923]LogAudio: Display: Audio Device (ID: 13) registered with world 'TestMap'.
+[2024.03.26-20.27.19:492][923]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.03.26-20.27.19:500][923]LogLoad: Game class is 'GM_TemplateGameMode_C'
+[2024.03.26-20.27.19:512][923]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2024.03.26-21.27.19
+[2024.03.26-20.27.19:512][923]LogWorld: Bringing up level for play took: 0.011726
+[2024.03.26-20.27.19:513][923]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.03.26-20.27.19:515][923]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.26-20.27.19:517][923]LogLevelSequence: Starting new camera cut: 'CineCameraActor_UAID_DC4A3E73C91F15E601_1782349738'
+[2024.03.26-20.27.19:519][923]LogConsoleVariablesEditor: Display: FConsoleVariablesEditorModule::SendMultiUserConsoleVariableChange: Play In Editor is about to start or has started; Multi-User Cvar sync is suspended during PIE.
+[2024.03.26-20.27.19:520][923]r.MotionBlur.Amount = "0"
+[2024.03.26-20.27.19:520][923]PIE: Server logged in
+[2024.03.26-20.27.19:521][923]PIE: Play in editor total start time 0,463 seconds.
+[2024.03.26-20.27.20:011][966]LogViewport: Scene viewport resized to 792x89, mode Windowed.
+[2024.03.26-20.27.22:448][136]LogViewport: Scene viewport resized to 793x89, mode Windowed.
+[2024.03.26-20.27.22:510][136]LogViewport: Scene viewport resized to 819x96, mode Windowed.
+[2024.03.26-20.27.22:544][136]LogViewport: Scene viewport resized to 839x100, mode Windowed.
+[2024.03.26-20.27.22:560][136]LogViewport: Scene viewport resized to 857x106, mode Windowed.
+[2024.03.26-20.27.22:577][136]LogViewport: Scene viewport resized to 867x109, mode Windowed.
+[2024.03.26-20.27.22:593][136]LogViewport: Scene viewport resized to 877x111, mode Windowed.
+[2024.03.26-20.27.22:626][136]LogViewport: Scene viewport resized to 885x114, mode Windowed.
+[2024.03.26-20.27.22:660][136]LogViewport: Scene viewport resized to 899x117, mode Windowed.
+[2024.03.26-20.27.22:693][136]LogViewport: Scene viewport resized to 911x119, mode Windowed.
+[2024.03.26-20.27.22:710][136]LogViewport: Scene viewport resized to 921x122, mode Windowed.
+[2024.03.26-20.27.22:727][136]LogViewport: Scene viewport resized to 925x124, mode Windowed.
+[2024.03.26-20.27.22:759][136]LogViewport: Scene viewport resized to 930x125, mode Windowed.
+[2024.03.26-20.27.22:794][136]LogViewport: Scene viewport resized to 940x128, mode Windowed.
+[2024.03.26-20.27.22:826][136]LogViewport: Scene viewport resized to 954x132, mode Windowed.
+[2024.03.26-20.27.22:860][136]LogViewport: Scene viewport resized to 969x136, mode Windowed.
+[2024.03.26-20.27.22:894][136]LogViewport: Scene viewport resized to 984x139, mode Windowed.
+[2024.03.26-20.27.22:926][136]LogViewport: Scene viewport resized to 1000x142, mode Windowed.
+[2024.03.26-20.27.22:959][136]LogViewport: Scene viewport resized to 1013x146, mode Windowed.
+[2024.03.26-20.27.22:993][136]LogViewport: Scene viewport resized to 1027x150, mode Windowed.
+[2024.03.26-20.27.23:028][136]LogViewport: Scene viewport resized to 1034x152, mode Windowed.
+[2024.03.26-20.27.23:060][136]LogViewport: Scene viewport resized to 1032x152, mode Windowed.
+[2024.03.26-20.27.23:095][136]LogViewport: Scene viewport resized to 1026x151, mode Windowed.
+[2024.03.26-20.27.28:637][678]LogLevelSequence: Starting new camera cut: 'BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919'
+[2024.03.26-20.27.30:133][857]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.27.30:133][857]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_11.BPW_MainHUD_C_0
+[2024.03.26-20.27.31:634][ 37]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.27.31:634][ 37]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_11.BPW_MainHUD_C_0
+[2024.03.26-20.27.33:138][217]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.27.33:138][217]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_11.BPW_MainHUD_C_0
+[2024.03.26-20.27.40:287][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-20.27.40:287][  2]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-20.27.40:288][  2]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-20.27.40:292][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-20.27.40:293][  2]LogContentBundle: [TestMap(Standalone)] Deleting container.
+[2024.03.26-20.27.40:303][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-20.27.40:308][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-20.27.40:318][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-20.27.40:318][  2]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.03.26-20.27.40:319][  2]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.26-20.27.40:320][  2]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.26-20.27.40:328][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.03.26-20.27.40:460][  3]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.03.26-20.27.52:340][370]LogViewport: Scene viewport resized to 1022x159, mode Windowed.
+[2024.03.26-20.27.52:407][372]LogViewport: Scene viewport resized to 871x126, mode Windowed.
+[2024.03.26-20.27.52:421][373]LogViewport: Scene viewport resized to 1912x291, mode Windowed.
+[2024.03.26-20.27.52:928][434]LogSlate: Window 'BP_RaceManager' being destroyed
+[2024.03.26-20.28.00:191][265]BlueprintLog: New page: Compile BP_RaceManager
+[2024.03.26-20.28.00:238][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.26-20.28.00:852][318]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-20.28.00:881][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD_Template/Race/BP_RaceManager" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/GD_Template/Race/BP_RaceManager.uasset" SILENT=true
+[2024.03.26-20.28.00:895][318]LogSavePackage: Moving output files for package: /Game/GD_Template/Race/BP_RaceManager
+[2024.03.26-20.28.00:896][318]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/BP_RaceManager9BCEF45A4C9F9A862082FDBDE9791ED0.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/GD_Template/Race/BP_RaceManager.uasset'
+[2024.03.26-20.28.00:900][318]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 193 ms)
+[2024.03.26-20.28.00:902][318]AssetCheck: New page: Asset Save: BP_RaceManager
+[2024.03.26-20.28.00:902][318]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GD_Template/Race/BP_RaceManager.BP_RaceManager
+[2024.03.26-20.28.02:209][467]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-20.28.02:214][467]LogContentBundle: [TestMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.26-20.28.02:214][467]LogWorldPartition: Display: GenerateStreaming for 'TestMap' started...
+[2024.03.26-20.28.02:219][467]LogWorldPartition: Display: GenerateStreaming for 'TestMap' took 5 ms (total: 66 ms)
+[2024.03.26-20.28.02:219][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-20.28.02:219][467]PIE: New page: PIE session: TestMap (26 mars 2024 à 22:28:02)
+[2024.03.26-20.28.02:219][467]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-20.28.02:584][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.364699s)
+[2024.03.26-20.28.02:584][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.364726s)
+[2024.03.26-20.28.02:593][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.03.26-20.28.02:595][467]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-20.28.02:595][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-20.28.02:595][467]LogAIModule: Creating AISystem for world TestMap
+[2024.03.26-20.28.02:596][467]LogWorldPartition: ULevel::OnLevelLoaded(TestMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.26-20.28.02:596][467]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.26-20.28.02:596][467]LogWorldPartition: UWorldPartition::Initialize : World = TestMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.26-20.28.02:596][467]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.26-20.28.02:605][467]LogContentBundle: [TestMap(Standalone)] Creating new contrainer.
+[2024.03.26-20.28.02:605][467]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 2.02 sec)
+[2024.03.26-20.28.02:605][467]LogPlayLevel: PIE: World Init took: (0.010022s)
+[2024.03.26-20.28.02:605][467]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.03.26-20.28.02:605][467]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-20.28.02:605][467]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-20.28.02:605][467]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-20.28.02:605][467]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-20.28.02:605][467]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-20.28.02:605][467]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-20.28.02:605][467]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-20.28.02:605][467]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-20.28.02:605][467]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-20.28.02:605][467]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-20.28.02:605][467]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-20.28.02:606][467]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-20.28.02:617][467]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- High Definition Audio Device)
+[2024.03.26-20.28.02:617][467]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-20.28.02:617][467]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-20.28.02:617][467]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-20.28.02:618][467]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.03.26-20.28.02:618][467]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.03.26-20.28.02:619][467]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.03.26-20.28.02:619][467]LogInit: FAudioDevice initialized with ID 14.
+[2024.03.26-20.28.02:619][467]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.03.26-20.28.02:619][467]LogAudio: Display: Audio Device (ID: 14) registered with world 'TestMap'.
+[2024.03.26-20.28.02:619][467]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.03.26-20.28.02:622][467]LogLoad: Game class is 'GM_TemplateGameMode_C'
+[2024.03.26-20.28.02:632][467]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2024.03.26-21.28.02
+[2024.03.26-20.28.02:633][467]LogWorld: Bringing up level for play took: 0.011032
+[2024.03.26-20.28.02:635][467]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.03.26-20.28.02:635][467]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.26-20.28.02:637][467]LogLevelSequence: Starting new camera cut: 'CineCameraActor_UAID_DC4A3E73C91F15E601_1782349738'
+[2024.03.26-20.28.02:639][467]r.MotionBlur.Amount = "0"
+[2024.03.26-20.28.02:640][467]PIE: Server logged in
+[2024.03.26-20.28.02:641][467]PIE: Play in editor total start time 0,426 seconds.
+[2024.03.26-20.28.10:260][377]LogLevelSequence: Starting new camera cut: 'BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919'
+[2024.03.26-20.28.10:261][377]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Sounds_Go' of length 0 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.28.10:261][377]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_12.BPW_MainHUD_C_0
+[2024.03.26-20.28.11:753][556]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Sounds_Go' of length 0 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.28.11:753][556]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_12.BPW_MainHUD_C_0
+[2024.03.26-20.28.13:253][736]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Sounds_Go' of length 0 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.28.13:253][736]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_12.BPW_MainHUD_C_0
+[2024.03.26-20.28.14:753][916]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Sounds_Go' of length 0 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.28.14:753][916]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_12.BPW_MainHUD_C_0
+[2024.03.26-20.28.17:066][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-20.28.17:066][188]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-20.28.17:066][188]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-20.28.17:068][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-20.28.17:068][188]LogContentBundle: [TestMap(Standalone)] Deleting container.
+[2024.03.26-20.28.17:080][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-20.28.17:083][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-20.28.17:095][188]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-20.28.17:096][188]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.03.26-20.28.17:096][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.03.26-20.28.17:097][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.03.26-20.28.17:100][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-20.28.17:105][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.03.26-20.28.17:160][189]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.03.26-20.32.53:514][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.03.26-20.32.54:332][367]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.26-20.32.54:350][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.03.26-20.32.54:362][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.03.26-20.32.54:371][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.03.26-20.34.44:168][232]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:/Users/felix/Downloads/CountDown_v2.wav)
+[2024.03.26-20.34.44:171][232]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave CountDown_v2...
+[2024.03.26-20.34.44:183][232]LogAudio: Display: Chunk sizes for SoundWave /Game/SOUNDS/CountDown_v2.CountDown_v2: Chunk0=28 bytes, Chunk1-N=256k
+[2024.03.26-20.34.44:184][232]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave CountDown_v2...
+[2024.03.26-20.34.44:195][232]LogAudio: Display: Chunk sizes for SoundWave /Game/SOUNDS/CountDown_v2.CountDown_v2: Chunk0=28 bytes, Chunk1-N=256k
+[2024.03.26-20.34.51:899][122]BlueprintLog: New page: Compile BP_RaceManager
+[2024.03.26-20.34.51:930][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.03.26-20.34.53:779][325]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-20.34.53:784][325]LogContentBundle: [TestMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.26-20.34.53:784][325]LogWorldPartition: Display: GenerateStreaming for 'TestMap' started...
+[2024.03.26-20.34.53:790][325]LogWorldPartition: Display: GenerateStreaming for 'TestMap' took 5 ms (total: 72 ms)
+[2024.03.26-20.34.53:790][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-20.34.53:790][325]PIE: New page: PIE session: TestMap (26 mars 2024 à 22:34:53)
+[2024.03.26-20.34.53:790][325]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-20.34.54:160][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.369752s)
+[2024.03.26-20.34.54:160][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.369785s)
+[2024.03.26-20.34.54:169][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.03.26-20.34.54:171][325]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-20.34.54:171][325]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-20.34.54:171][325]LogAIModule: Creating AISystem for world TestMap
+[2024.03.26-20.34.54:172][325]LogWorldPartition: ULevel::OnLevelLoaded(TestMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.26-20.34.54:172][325]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.26-20.34.54:172][325]LogWorldPartition: UWorldPartition::Initialize : World = TestMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.26-20.34.54:172][325]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.26-20.34.54:181][325]LogContentBundle: [TestMap(Standalone)] Creating new contrainer.
+[2024.03.26-20.34.54:181][325]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 2.02 sec)
+[2024.03.26-20.34.54:181][325]LogPlayLevel: PIE: World Init took: (0.009790s)
+[2024.03.26-20.34.54:181][325]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.03.26-20.34.54:181][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-20.34.54:181][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-20.34.54:181][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-20.34.54:181][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-20.34.54:181][325]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-20.34.54:181][325]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-20.34.54:181][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-20.34.54:181][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-20.34.54:181][325]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-20.34.54:181][325]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-20.34.54:181][325]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-20.34.54:183][325]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-20.34.54:194][325]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- High Definition Audio Device)
+[2024.03.26-20.34.54:194][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-20.34.54:194][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-20.34.54:194][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-20.34.54:195][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.03.26-20.34.54:195][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.03.26-20.34.54:196][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.03.26-20.34.54:196][325]LogInit: FAudioDevice initialized with ID 15.
+[2024.03.26-20.34.54:196][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.03.26-20.34.54:196][325]LogAudio: Display: Audio Device (ID: 15) registered with world 'TestMap'.
+[2024.03.26-20.34.54:196][325]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.03.26-20.34.54:198][325]LogLoad: Game class is 'GM_TemplateGameMode_C'
+[2024.03.26-20.34.54:210][325]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2024.03.26-21.34.54
+[2024.03.26-20.34.54:210][325]LogWorld: Bringing up level for play took: 0.011476
+[2024.03.26-20.34.54:212][325]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.03.26-20.34.54:213][325]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.26-20.34.54:214][325]LogLevelSequence: Starting new camera cut: 'CineCameraActor_UAID_DC4A3E73C91F15E601_1782349738'
+[2024.03.26-20.34.54:217][325]LogConsoleVariablesEditor: Display: FConsoleVariablesEditorModule::SendMultiUserConsoleVariableChange: Play In Editor is about to start or has started; Multi-User Cvar sync is suspended during PIE.
+[2024.03.26-20.34.54:217][325]r.MotionBlur.Amount = "0"
+[2024.03.26-20.34.54:218][325]PIE: Server logged in
+[2024.03.26-20.34.54:218][325]PIE: Play in editor total start time 0,434 seconds.
+[2024.03.26-20.35.01:833][235]LogLevelSequence: Starting new camera cut: 'BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919'
+[2024.03.26-20.35.03:326][414]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.35.03:327][414]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_13.BPW_MainHUD_C_0
+[2024.03.26-20.35.04:826][594]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.35.04:826][594]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_13.BPW_MainHUD_C_0
+[2024.03.26-20.35.06:326][774]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.35.06:326][774]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_13.BPW_MainHUD_C_0
+[2024.03.26-20.35.08:595][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-20.35.08:595][ 40]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-20.35.08:595][ 40]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-20.35.08:599][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-20.35.08:600][ 40]LogContentBundle: [TestMap(Standalone)] Deleting container.
+[2024.03.26-20.35.08:612][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-20.35.08:615][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-20.35.08:626][ 40]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-20.35.08:627][ 40]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.03.26-20.35.08:627][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.03.26-20.35.08:628][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.03.26-20.35.08:631][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-20.35.08:639][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.03.26-20.35.08:670][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.03.26-20.35.36:355][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.03.26-20.35.36:359][508]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/TestMap/8/IA/TV14W8GPNIL1L5UQ74FM46_Auto2
+[2024.03.26-20.35.36:359][508]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/TV14W8GPNIL1L5UQ74FM46_Auto2422C59634228CC3B5094EC9CAD9A9BC1.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/__ExternalActors__/Maps/TestMap/8/IA/TV14W8GPNIL1L5UQ74FM46_Auto2.uasset'
+[2024.03.26-20.35.36:360][508]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap' took 0.018
+[2024.03.26-20.35.36:360][508]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.018
+[2024.03.26-20.35.36:360][508]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GD_Template/Race/BP_RaceManager] ([2] browsable assets)...
+[2024.03.26-20.35.36:360][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD_Template/Race/BP_RaceManager]
+[2024.03.26-20.35.36:375][508]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD_Template/Race/BP_RaceManager_Auto2
+[2024.03.26-20.35.36:375][508]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/BP_RaceManager_Auto2ED3E07EC4835FAD6078D809D4B6133AF.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/GD_Template/Race/BP_RaceManager_Auto2.uasset'
+[2024.03.26-20.35.36:376][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SOUNDS/CountDown_v2] ([1] browsable assets)...
+[2024.03.26-20.35.36:379][508]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/SOUNDS/CountDown_v2.CountDown_v2]
+[2024.03.26-20.35.36:379][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/SOUNDS/CountDown_v2]
+[2024.03.26-20.35.36:379][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/CountDown_v2" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/CountDown_v2_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.03.26-20.35.36:382][508]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SOUNDS/CountDown_v2_Auto2
+[2024.03.26-20.35.36:382][508]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/CountDown_v2_Auto2E56BC0A94BD700D09DBE56A361F112C9.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/CountDown_v2_Auto2.uasset'
+[2024.03.26-20.35.36:382][508]LogFileHelpers: Auto-saving content packages took 0.023
+[2024.03.26-20.36.44:475][957]LogAssetTools: Warning: Two factories registered with same priority : AndroidFileMediaSourceFactory_0 and WmfFileMediaSourceFactory_4
+[2024.03.26-20.36.44:475][957]LogFactory: FactoryCreateFile: FileMediaSource with AndroidFileMediaSourceFactory (0 0 C:/Users/felix/Downloads/CountDown_v3.mp4)
+[2024.03.26-20.36.49:971][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.03.26-20.36.51:156][609]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.26-20.36.51:174][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.03.26-20.36.51:186][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.03.26-20.36.51:196][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.03.26-20.37.37:398][928]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:/Users/felix/Downloads/CountDown_v3.wav)
+[2024.03.26-20.37.37:400][928]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave CountDown_v3...
+[2024.03.26-20.37.37:415][928]LogAudio: Display: Chunk sizes for SoundWave /Game/SOUNDS/CountDown_v3.CountDown_v3: Chunk0=28 bytes, Chunk1-N=256k
+[2024.03.26-20.37.37:415][928]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave CountDown_v3...
+[2024.03.26-20.37.37:430][928]LogAudio: Display: Chunk sizes for SoundWave /Game/SOUNDS/CountDown_v3.CountDown_v3: Chunk0=28 bytes, Chunk1-N=256k
+[2024.03.26-20.37.37:443][928]LogAutomationController: Ignoring very large delta of 2.03 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.26-20.37.49:596][330]BlueprintLog: New page: Compile BP_RaceManager
+[2024.03.26-20.37.49:623][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.26-20.37.51:595][547]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-20.37.51:600][547]LogContentBundle: [TestMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.26-20.37.51:600][547]LogWorldPartition: Display: GenerateStreaming for 'TestMap' started...
+[2024.03.26-20.37.51:604][547]LogWorldPartition: Display: GenerateStreaming for 'TestMap' took 5 ms (total: 77 ms)
+[2024.03.26-20.37.51:605][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-20.37.51:605][547]PIE: New page: PIE session: TestMap (26 mars 2024 à 22:37:51)
+[2024.03.26-20.37.51:606][547]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-20.37.51:972][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.367408s)
+[2024.03.26-20.37.51:972][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.367436s)
+[2024.03.26-20.37.51:980][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.26-20.37.51:982][547]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-20.37.51:982][547]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-20.37.51:983][547]LogAIModule: Creating AISystem for world TestMap
+[2024.03.26-20.37.51:983][547]LogWorldPartition: ULevel::OnLevelLoaded(TestMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.26-20.37.51:983][547]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.26-20.37.51:983][547]LogWorldPartition: UWorldPartition::Initialize : World = TestMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.26-20.37.51:983][547]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.26-20.37.51:992][547]LogContentBundle: [TestMap(Standalone)] Creating new contrainer.
+[2024.03.26-20.37.51:992][547]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 2.03 sec)
+[2024.03.26-20.37.51:992][547]LogPlayLevel: PIE: World Init took: (0.009828s)
+[2024.03.26-20.37.51:992][547]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.03.26-20.37.51:992][547]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-20.37.51:992][547]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-20.37.51:992][547]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-20.37.51:992][547]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-20.37.51:992][547]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-20.37.51:992][547]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-20.37.51:992][547]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-20.37.51:992][547]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-20.37.51:993][547]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-20.37.51:993][547]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-20.37.51:993][547]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-20.37.51:994][547]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-20.37.52:005][547]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- High Definition Audio Device)
+[2024.03.26-20.37.52:005][547]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-20.37.52:005][547]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-20.37.52:005][547]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-20.37.52:006][547]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.03.26-20.37.52:006][547]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.03.26-20.37.52:007][547]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.03.26-20.37.52:007][547]LogInit: FAudioDevice initialized with ID 16.
+[2024.03.26-20.37.52:007][547]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.03.26-20.37.52:007][547]LogAudio: Display: Audio Device (ID: 16) registered with world 'TestMap'.
+[2024.03.26-20.37.52:007][547]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.03.26-20.37.52:009][547]LogLoad: Game class is 'GM_TemplateGameMode_C'
+[2024.03.26-20.37.52:021][547]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2024.03.26-21.37.52
+[2024.03.26-20.37.52:021][547]LogWorld: Bringing up level for play took: 0.011203
+[2024.03.26-20.37.52:023][547]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.03.26-20.37.52:023][547]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.26-20.37.52:025][547]LogLevelSequence: Starting new camera cut: 'CineCameraActor_UAID_DC4A3E73C91F15E601_1782349738'
+[2024.03.26-20.37.52:027][547]r.MotionBlur.Amount = "0"
+[2024.03.26-20.37.52:028][547]PIE: Server logged in
+[2024.03.26-20.37.52:028][547]PIE: Play in editor total start time 0,429 seconds.
+[2024.03.26-20.37.59:645][455]LogLevelSequence: Starting new camera cut: 'BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919'
+[2024.03.26-20.38.01:137][634]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.38.01:138][634]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.BPW_MainHUD_C_0
+[2024.03.26-20.38.02:637][814]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.38.02:638][814]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.BPW_MainHUD_C_0
+[2024.03.26-20.38.04:137][994]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.38.04:137][994]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.BPW_MainHUD_C_0
+[2024.03.26-20.38.04:785][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-20.38.04:785][ 67]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-20.38.04:785][ 67]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-20.38.04:789][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-20.38.04:789][ 67]LogContentBundle: [TestMap(Standalone)] Deleting container.
+[2024.03.26-20.38.04:800][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-20.38.04:804][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-20.38.04:815][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-20.38.04:817][ 67]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.03.26-20.38.04:817][ 67]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.03.26-20.38.04:819][ 67]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.03.26-20.38.04:827][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.26-20.38.04:858][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.03.26-20.39.32:734][860]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:/Users/felix/Downloads/CountDown_v4.wav)
+[2024.03.26-20.39.32:736][860]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave CountDown_v4...
+[2024.03.26-20.39.32:751][860]LogAudio: Display: Chunk sizes for SoundWave /Game/SOUNDS/CountDown_v4.CountDown_v4: Chunk0=28 bytes, Chunk1-N=256k
+[2024.03.26-20.39.32:751][860]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave CountDown_v4...
+[2024.03.26-20.39.32:767][860]LogAudio: Display: Chunk sizes for SoundWave /Game/SOUNDS/CountDown_v4.CountDown_v4: Chunk0=28 bytes, Chunk1-N=256k
+[2024.03.26-20.39.37:476][392]BlueprintLog: New page: Compile BP_RaceManager
+[2024.03.26-20.39.37:503][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.26-20.39.39:115][564]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-20.39.39:120][564]LogContentBundle: [TestMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.26-20.39.39:120][564]LogWorldPartition: Display: GenerateStreaming for 'TestMap' started...
+[2024.03.26-20.39.39:125][564]LogWorldPartition: Display: GenerateStreaming for 'TestMap' took 5 ms (total: 82 ms)
+[2024.03.26-20.39.39:125][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-20.39.39:125][564]PIE: New page: PIE session: TestMap (26 mars 2024 à 22:39:39)
+[2024.03.26-20.39.39:125][564]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-20.39.39:496][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.370432s)
+[2024.03.26-20.39.39:496][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.370462s)
+[2024.03.26-20.39.39:505][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.03.26-20.39.39:506][564]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-20.39.39:506][564]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-20.39.39:507][564]LogAIModule: Creating AISystem for world TestMap
+[2024.03.26-20.39.39:507][564]LogWorldPartition: ULevel::OnLevelLoaded(TestMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.26-20.39.39:507][564]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.26-20.39.39:507][564]LogWorldPartition: UWorldPartition::Initialize : World = TestMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.26-20.39.39:507][564]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.26-20.39.39:515][564]LogContentBundle: [TestMap(Standalone)] Creating new contrainer.
+[2024.03.26-20.39.39:515][564]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 2.04 sec)
+[2024.03.26-20.39.39:515][564]LogPlayLevel: PIE: World Init took: (0.009571s)
+[2024.03.26-20.39.39:515][564]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.03.26-20.39.39:515][564]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-20.39.39:515][564]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-20.39.39:515][564]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-20.39.39:515][564]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-20.39.39:515][564]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-20.39.39:515][564]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-20.39.39:515][564]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-20.39.39:515][564]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-20.39.39:516][564]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-20.39.39:516][564]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-20.39.39:516][564]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-20.39.39:517][564]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-20.39.39:528][564]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- High Definition Audio Device)
+[2024.03.26-20.39.39:529][564]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-20.39.39:529][564]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-20.39.39:529][564]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-20.39.39:529][564]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.03.26-20.39.39:529][564]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.03.26-20.39.39:531][564]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.03.26-20.39.39:531][564]LogInit: FAudioDevice initialized with ID 17.
+[2024.03.26-20.39.39:531][564]LogAudio: Display: Audio Device (ID: 17) registered with world 'TestMap'.
+[2024.03.26-20.39.39:531][564]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.03.26-20.39.39:531][564]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.03.26-20.39.39:533][564]LogLoad: Game class is 'GM_TemplateGameMode_C'
+[2024.03.26-20.39.39:544][564]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2024.03.26-21.39.39
+[2024.03.26-20.39.39:544][564]LogWorld: Bringing up level for play took: 0.010953
+[2024.03.26-20.39.39:546][564]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.03.26-20.39.39:546][564]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.26-20.39.39:548][564]LogLevelSequence: Starting new camera cut: 'CineCameraActor_UAID_DC4A3E73C91F15E601_1782349738'
+[2024.03.26-20.39.39:551][564]LogConsoleVariablesEditor: Display: FConsoleVariablesEditorModule::SendMultiUserConsoleVariableChange: Play In Editor is about to start or has started; Multi-User Cvar sync is suspended during PIE.
+[2024.03.26-20.39.39:551][564]r.MotionBlur.Amount = "0"
+[2024.03.26-20.39.39:551][564]PIE: Server logged in
+[2024.03.26-20.39.39:552][564]PIE: Play in editor total start time 0,432 seconds.
+[2024.03.26-20.39.47:165][474]LogLevelSequence: Starting new camera cut: 'BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919'
+[2024.03.26-20.39.48:658][653]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.39.48:658][653]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_15.BPW_MainHUD_C_0
+[2024.03.26-20.39.50:158][833]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.39.50:158][833]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_15.BPW_MainHUD_C_0
+[2024.03.26-20.39.51:659][ 13]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.39.51:659][ 13]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_15.BPW_MainHUD_C_0
+[2024.03.26-20.40.58:291][ 33]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:/Users/felix/Downloads/CountDown_v5.wav)
+[2024.03.26-20.40.58:293][ 33]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave CountDown_v5...
+[2024.03.26-20.40.58:310][ 33]LogAudio: Display: Chunk sizes for SoundWave /Game/SOUNDS/CountDown_v5.CountDown_v5: Chunk0=28 bytes, Chunk1-N=256k
+[2024.03.26-20.40.58:310][ 33]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave CountDown_v5...
+[2024.03.26-20.40.58:326][ 33]LogAudio: Display: Chunk sizes for SoundWave /Game/SOUNDS/CountDown_v5.CountDown_v5: Chunk0=28 bytes, Chunk1-N=256k
+[2024.03.26-20.40.59:404][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-20.40.59:404][157]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-20.40.59:405][157]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-20.40.59:408][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-20.40.59:408][157]LogContentBundle: [TestMap(Standalone)] Deleting container.
+[2024.03.26-20.40.59:421][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-20.40.59:425][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-20.40.59:436][157]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-20.40.59:437][157]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.03.26-20.40.59:437][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.03.26-20.40.59:438][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.03.26-20.40.59:442][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-20.40.59:448][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.03.26-20.40.59:482][158]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.03.26-20.41.03:169][568]BlueprintLog: New page: Compile BP_RaceManager
+[2024.03.26-20.41.03:198][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.26-20.41.04:384][691]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-20.41.04:390][691]LogContentBundle: [TestMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.26-20.41.04:390][691]LogWorldPartition: Display: GenerateStreaming for 'TestMap' started...
+[2024.03.26-20.41.04:395][691]LogWorldPartition: Display: GenerateStreaming for 'TestMap' took 5 ms (total: 87 ms)
+[2024.03.26-20.41.04:395][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-20.41.04:395][691]PIE: New page: PIE session: TestMap (26 mars 2024 à 22:41:04)
+[2024.03.26-20.41.04:395][691]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-20.41.04:766][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.370844s)
+[2024.03.26-20.41.04:766][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.370874s)
+[2024.03.26-20.41.04:775][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.03.26-20.41.04:776][691]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-20.41.04:776][691]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-20.41.04:777][691]LogAIModule: Creating AISystem for world TestMap
+[2024.03.26-20.41.04:777][691]LogWorldPartition: ULevel::OnLevelLoaded(TestMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.26-20.41.04:777][691]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.26-20.41.04:777][691]LogWorldPartition: UWorldPartition::Initialize : World = TestMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.26-20.41.04:777][691]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.26-20.41.04:786][691]LogContentBundle: [TestMap(Standalone)] Creating new contrainer.
+[2024.03.26-20.41.04:786][691]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 2.05 sec)
+[2024.03.26-20.41.04:786][691]LogPlayLevel: PIE: World Init took: (0.009547s)
+[2024.03.26-20.41.04:786][691]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.03.26-20.41.04:786][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-20.41.04:786][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-20.41.04:786][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-20.41.04:786][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-20.41.04:786][691]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-20.41.04:786][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-20.41.04:786][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-20.41.04:786][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-20.41.04:787][691]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-20.41.04:787][691]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-20.41.04:787][691]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-20.41.04:788][691]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-20.41.04:799][691]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- High Definition Audio Device)
+[2024.03.26-20.41.04:799][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-20.41.04:799][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-20.41.04:799][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-20.41.04:800][691]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.03.26-20.41.04:800][691]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.03.26-20.41.04:801][691]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.03.26-20.41.04:801][691]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.03.26-20.41.04:801][691]LogInit: FAudioDevice initialized with ID 18.
+[2024.03.26-20.41.04:801][691]LogAudio: Display: Audio Device (ID: 18) registered with world 'TestMap'.
+[2024.03.26-20.41.04:801][691]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.03.26-20.41.04:804][691]LogLoad: Game class is 'GM_TemplateGameMode_C'
+[2024.03.26-20.41.04:815][691]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2024.03.26-21.41.04
+[2024.03.26-20.41.04:815][691]LogWorld: Bringing up level for play took: 0.011292
+[2024.03.26-20.41.04:817][691]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.03.26-20.41.04:817][691]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.26-20.41.04:819][691]LogLevelSequence: Starting new camera cut: 'CineCameraActor_UAID_DC4A3E73C91F15E601_1782349738'
+[2024.03.26-20.41.04:822][691]r.MotionBlur.Amount = "0"
+[2024.03.26-20.41.04:822][691]PIE: Server logged in
+[2024.03.26-20.41.04:823][691]PIE: Play in editor total start time 0,433 seconds.
+[2024.03.26-20.41.12:441][601]LogLevelSequence: Starting new camera cut: 'BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919'
+[2024.03.26-20.41.13:934][780]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.41.13:934][780]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_16.BPW_MainHUD_C_0
+[2024.03.26-20.41.15:434][960]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.41.15:434][960]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_16.BPW_MainHUD_C_0
+[2024.03.26-20.41.16:934][140]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.41.16:934][140]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_16.BPW_MainHUD_C_0
+[2024.03.26-20.42.02:858][885]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:/Users/felix/Downloads/CountDown_v6.wav)
+[2024.03.26-20.42.02:861][885]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave CountDown_v6...
+[2024.03.26-20.42.02:878][885]LogAudio: Display: Chunk sizes for SoundWave /Game/SOUNDS/CountDown_v6.CountDown_v6: Chunk0=28 bytes, Chunk1-N=256k
+[2024.03.26-20.42.02:878][885]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave CountDown_v6...
+[2024.03.26-20.42.02:895][885]LogAudio: Display: Chunk sizes for SoundWave /Game/SOUNDS/CountDown_v6.CountDown_v6: Chunk0=28 bytes, Chunk1-N=256k
+[2024.03.26-20.42.04:364][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-20.42.04:364][ 55]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-20.42.04:364][ 55]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-20.42.04:369][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-20.42.04:369][ 55]LogContentBundle: [TestMap(Standalone)] Deleting container.
+[2024.03.26-20.42.04:381][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-20.42.04:385][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-20.42.04:397][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-20.42.04:398][ 55]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.03.26-20.42.04:398][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.03.26-20.42.04:400][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.03.26-20.42.04:408][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.26-20.42.04:440][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.03.26-20.42.08:294][485]BlueprintLog: New page: Compile BP_RaceManager
+[2024.03.26-20.42.08:321][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.26-20.42.08:726][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-20.42.08:773][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD_Template/Race/BP_RaceManager" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/GD_Template/Race/BP_RaceManager.uasset" SILENT=true
+[2024.03.26-20.42.08:788][519]LogSavePackage: Moving output files for package: /Game/GD_Template/Race/BP_RaceManager
+[2024.03.26-20.42.08:788][519]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/BP_RaceManagerAB9B19B541EF878F6F3D33B9455E6F51.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/GD_Template/Race/BP_RaceManager.uasset'
+[2024.03.26-20.42.08:793][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 259 ms)
+[2024.03.26-20.42.08:794][519]AssetCheck: New page: Asset Save: BP_RaceManager
+[2024.03.26-20.42.08:794][519]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GD_Template/Race/BP_RaceManager.BP_RaceManager
+[2024.03.26-20.42.10:248][684]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-20.42.10:254][684]LogContentBundle: [TestMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.26-20.42.10:254][684]LogWorldPartition: Display: GenerateStreaming for 'TestMap' started...
+[2024.03.26-20.42.10:259][684]LogWorldPartition: Display: GenerateStreaming for 'TestMap' took 5 ms (total: 93 ms)
+[2024.03.26-20.42.10:259][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-20.42.10:259][684]PIE: New page: PIE session: TestMap (26 mars 2024 à 22:42:10)
+[2024.03.26-20.42.10:259][684]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-20.42.10:627][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.367973s)
+[2024.03.26-20.42.10:627][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.368002s)
+[2024.03.26-20.42.10:635][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.03.26-20.42.10:637][684]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-20.42.10:637][684]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-20.42.10:637][684]LogAIModule: Creating AISystem for world TestMap
+[2024.03.26-20.42.10:638][684]LogWorldPartition: ULevel::OnLevelLoaded(TestMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.26-20.42.10:638][684]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.26-20.42.10:638][684]LogWorldPartition: UWorldPartition::Initialize : World = TestMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.26-20.42.10:638][684]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.26-20.42.10:647][684]LogContentBundle: [TestMap(Standalone)] Creating new contrainer.
+[2024.03.26-20.42.10:647][684]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 2.06 sec)
+[2024.03.26-20.42.10:647][684]LogPlayLevel: PIE: World Init took: (0.009686s)
+[2024.03.26-20.42.10:647][684]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.03.26-20.42.10:647][684]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-20.42.10:647][684]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-20.42.10:647][684]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-20.42.10:647][684]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-20.42.10:647][684]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-20.42.10:647][684]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-20.42.10:647][684]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-20.42.10:647][684]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-20.42.10:647][684]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-20.42.10:647][684]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-20.42.10:647][684]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-20.42.10:649][684]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-20.42.10:660][684]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- High Definition Audio Device)
+[2024.03.26-20.42.10:660][684]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-20.42.10:660][684]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-20.42.10:660][684]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-20.42.10:660][684]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.03.26-20.42.10:660][684]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.03.26-20.42.10:661][684]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.03.26-20.42.10:661][684]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.03.26-20.42.10:661][684]LogInit: FAudioDevice initialized with ID 19.
+[2024.03.26-20.42.10:661][684]LogAudio: Display: Audio Device (ID: 19) registered with world 'TestMap'.
+[2024.03.26-20.42.10:661][684]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.03.26-20.42.10:665][684]LogLoad: Game class is 'GM_TemplateGameMode_C'
+[2024.03.26-20.42.10:676][684]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2024.03.26-21.42.10
+[2024.03.26-20.42.10:676][684]LogWorld: Bringing up level for play took: 0.010920
+[2024.03.26-20.42.10:678][684]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.03.26-20.42.10:678][684]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.26-20.42.10:680][684]LogLevelSequence: Starting new camera cut: 'CineCameraActor_UAID_DC4A3E73C91F15E601_1782349738'
+[2024.03.26-20.42.10:682][684]LogConsoleVariablesEditor: Display: FConsoleVariablesEditorModule::SendMultiUserConsoleVariableChange: Play In Editor is about to start or has started; Multi-User Cvar sync is suspended during PIE.
+[2024.03.26-20.42.10:682][684]r.MotionBlur.Amount = "0"
+[2024.03.26-20.42.10:683][684]PIE: Server logged in
+[2024.03.26-20.42.10:683][684]PIE: Play in editor total start time 0,43 seconds.
+[2024.03.26-20.42.18:300][594]LogLevelSequence: Starting new camera cut: 'BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919'
+[2024.03.26-20.42.19:793][773]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.42.19:793][773]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.BPW_MainHUD_C_0
+[2024.03.26-20.42.21:294][953]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.42.21:294][953]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.BPW_MainHUD_C_0
+[2024.03.26-20.42.22:793][133]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.42.22:794][133]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.BPW_MainHUD_C_0
+[2024.03.26-20.42.57:580][846]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:/Users/felix/Downloads/CountDown_v7.wav)
+[2024.03.26-20.42.57:582][846]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave CountDown_v7...
+[2024.03.26-20.42.57:598][846]LogAudio: Display: Chunk sizes for SoundWave /Game/SOUNDS/CountDown_v7.CountDown_v7: Chunk0=28 bytes, Chunk1-N=256k
+[2024.03.26-20.42.57:599][846]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave CountDown_v7...
+[2024.03.26-20.42.57:616][847]LogAudio: Display: Chunk sizes for SoundWave /Game/SOUNDS/CountDown_v7.CountDown_v7: Chunk0=28 bytes, Chunk1-N=256k
+[2024.03.26-20.43.00:134][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-20.43.00:134][129]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-20.43.00:134][129]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-20.43.00:137][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-20.43.00:137][129]LogContentBundle: [TestMap(Standalone)] Deleting container.
+[2024.03.26-20.43.00:149][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-20.43.00:152][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-20.43.00:163][129]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-20.43.00:164][129]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.03.26-20.43.00:164][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.03.26-20.43.00:165][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.03.26-20.43.00:168][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-20.43.00:174][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.03.26-20.43.00:287][130]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.03.26-20.43.03:833][531]BlueprintLog: New page: Compile BP_RaceManager
+[2024.03.26-20.43.03:859][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.03.26-20.43.04:386][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-20.43.04:418][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD_Template/Race/BP_RaceManager" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/GD_Template/Race/BP_RaceManager.uasset" SILENT=true
+[2024.03.26-20.43.04:433][572]LogSavePackage: Moving output files for package: /Game/GD_Template/Race/BP_RaceManager
+[2024.03.26-20.43.04:433][572]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/BP_RaceManager2505105647A1635E9CD57B9CDB285C54.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/GD_Template/Race/BP_RaceManager.uasset'
+[2024.03.26-20.43.04:438][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 311 ms)
+[2024.03.26-20.43.04:439][572]AssetCheck: New page: Asset Save: BP_RaceManager
+[2024.03.26-20.43.04:439][572]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GD_Template/Race/BP_RaceManager.BP_RaceManager
+[2024.03.26-20.43.05:387][672]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-20.43.05:392][672]LogContentBundle: [TestMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.26-20.43.05:392][672]LogWorldPartition: Display: GenerateStreaming for 'TestMap' started...
+[2024.03.26-20.43.05:397][672]LogWorldPartition: Display: GenerateStreaming for 'TestMap' took 5 ms (total: 98 ms)
+[2024.03.26-20.43.05:397][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-20.43.05:397][672]PIE: New page: PIE session: TestMap (26 mars 2024 à 22:43:05)
+[2024.03.26-20.43.05:397][672]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-20.43.05:767][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.370157s)
+[2024.03.26-20.43.05:767][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.370184s)
+[2024.03.26-20.43.05:777][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.03.26-20.43.05:779][672]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-20.43.05:779][672]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-20.43.05:779][672]LogAIModule: Creating AISystem for world TestMap
+[2024.03.26-20.43.05:780][672]LogWorldPartition: ULevel::OnLevelLoaded(TestMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.26-20.43.05:780][672]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.26-20.43.05:780][672]LogWorldPartition: UWorldPartition::Initialize : World = TestMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.26-20.43.05:780][672]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.26-20.43.05:788][672]LogContentBundle: [TestMap(Standalone)] Creating new contrainer.
+[2024.03.26-20.43.05:788][672]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 2.07 sec)
+[2024.03.26-20.43.05:788][672]LogPlayLevel: PIE: World Init took: (0.009675s)
+[2024.03.26-20.43.05:788][672]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.03.26-20.43.05:788][672]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-20.43.05:788][672]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-20.43.05:788][672]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-20.43.05:788][672]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-20.43.05:788][672]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-20.43.05:788][672]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-20.43.05:788][672]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-20.43.05:788][672]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-20.43.05:789][672]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-20.43.05:789][672]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-20.43.05:789][672]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-20.43.05:790][672]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-20.43.05:801][672]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- High Definition Audio Device)
+[2024.03.26-20.43.05:801][672]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-20.43.05:801][672]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-20.43.05:801][672]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-20.43.05:801][672]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.03.26-20.43.05:801][672]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.03.26-20.43.05:804][672]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.03.26-20.43.05:804][672]LogInit: FAudioDevice initialized with ID 20.
+[2024.03.26-20.43.05:804][672]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.03.26-20.43.05:804][672]LogAudio: Display: Audio Device (ID: 20) registered with world 'TestMap'.
+[2024.03.26-20.43.05:804][672]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.03.26-20.43.05:806][672]LogLoad: Game class is 'GM_TemplateGameMode_C'
+[2024.03.26-20.43.05:816][672]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2024.03.26-21.43.05
+[2024.03.26-20.43.05:817][672]LogWorld: Bringing up level for play took: 0.010979
+[2024.03.26-20.43.05:818][672]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.03.26-20.43.05:819][672]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.26-20.43.05:821][672]LogLevelSequence: Starting new camera cut: 'CineCameraActor_UAID_DC4A3E73C91F15E601_1782349738'
+[2024.03.26-20.43.05:823][672]r.MotionBlur.Amount = "0"
+[2024.03.26-20.43.05:824][672]PIE: Server logged in
+[2024.03.26-20.43.05:825][672]PIE: Play in editor total start time 0,432 seconds.
+[2024.03.26-20.43.13:438][582]LogLevelSequence: Starting new camera cut: 'BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919'
+[2024.03.26-20.43.14:931][761]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.43.14:932][761]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_18.BPW_MainHUD_C_0
+[2024.03.26-20.43.16:431][941]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.43.16:431][941]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_18.BPW_MainHUD_C_0
+[2024.03.26-20.43.17:932][121]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-20.43.17:932][121]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_18.BPW_MainHUD_C_0
+[2024.03.26-20.43.24:884][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-20.43.24:884][951]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-20.43.24:885][951]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-20.43.24:887][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-20.43.24:888][951]LogContentBundle: [TestMap(Standalone)] Deleting container.
+[2024.03.26-20.43.24:899][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-20.43.24:903][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-20.43.24:911][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-20.43.24:913][951]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.03.26-20.43.24:913][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.03.26-20.43.24:914][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.03.26-20.43.24:924][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.03.26-20.43.24:966][952]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.03.26-20.49.19:684][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.26-20.49.19:688][119]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/TestMap/8/IA/TV14W8GPNIL1L5UQ74FM46_Auto3
+[2024.03.26-20.49.19:689][119]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/TV14W8GPNIL1L5UQ74FM46_Auto336A85D814BD67C4181E597BB1428FF47.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/__ExternalActors__/Maps/TestMap/8/IA/TV14W8GPNIL1L5UQ74FM46_Auto3.uasset'
+[2024.03.26-20.49.19:690][119]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap' took 0.019
+[2024.03.26-20.49.19:690][119]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2024.03.26-20.49.19:690][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SOUNDS/CountDown_v3] ([1] browsable assets)...
+[2024.03.26-20.49.19:693][119]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/SOUNDS/CountDown_v3.CountDown_v3]
+[2024.03.26-20.49.19:693][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/SOUNDS/CountDown_v3]
+[2024.03.26-20.49.19:693][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/CountDown_v3" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/CountDown_v3_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.03.26-20.49.19:696][119]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SOUNDS/CountDown_v3_Auto3
+[2024.03.26-20.49.19:696][119]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/CountDown_v3_Auto3BDB0562C471FE0E883C14D92D9E80243.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/CountDown_v3_Auto3.uasset'
+[2024.03.26-20.49.19:697][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SOUNDS/CountDown_v4] ([1] browsable assets)...
+[2024.03.26-20.49.19:701][119]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/SOUNDS/CountDown_v4.CountDown_v4]
+[2024.03.26-20.49.19:701][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/SOUNDS/CountDown_v4]
+[2024.03.26-20.49.19:701][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/CountDown_v4" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/CountDown_v4_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.03.26-20.49.19:705][119]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SOUNDS/CountDown_v4_Auto3
+[2024.03.26-20.49.19:705][119]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/CountDown_v4_Auto3D435647E40A09D1646E6A9BE919DDD1C.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/CountDown_v4_Auto3.uasset'
+[2024.03.26-20.49.19:705][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SOUNDS/CountDown_v5] ([1] browsable assets)...
+[2024.03.26-20.49.19:708][119]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/SOUNDS/CountDown_v5.CountDown_v5]
+[2024.03.26-20.49.19:708][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/SOUNDS/CountDown_v5]
+[2024.03.26-20.49.19:708][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/CountDown_v5" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/CountDown_v5_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.03.26-20.49.19:711][119]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SOUNDS/CountDown_v5_Auto3
+[2024.03.26-20.49.19:711][119]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/CountDown_v5_Auto3CE31B6AD4ABB4DEC8E9EC09526F2DFE6.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/CountDown_v5_Auto3.uasset'
+[2024.03.26-20.49.19:711][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SOUNDS/CountDown_v6] ([1] browsable assets)...
+[2024.03.26-20.49.19:715][119]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/SOUNDS/CountDown_v6.CountDown_v6]
+[2024.03.26-20.49.19:715][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/SOUNDS/CountDown_v6]
+[2024.03.26-20.49.19:715][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/CountDown_v6" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/CountDown_v6_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.03.26-20.49.19:719][119]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SOUNDS/CountDown_v6_Auto3
+[2024.03.26-20.49.19:719][119]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/CountDown_v6_Auto3E11DAED14405D2ECD871CE8E484C2998.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/CountDown_v6_Auto3.uasset'
+[2024.03.26-20.49.19:719][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SOUNDS/CountDown_v7] ([1] browsable assets)...
+[2024.03.26-20.49.19:723][119]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/SOUNDS/CountDown_v7.CountDown_v7]
+[2024.03.26-20.49.19:723][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/SOUNDS/CountDown_v7]
+[2024.03.26-20.49.19:723][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/CountDown_v7" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/CountDown_v7_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.03.26-20.49.19:726][119]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SOUNDS/CountDown_v7_Auto3
+[2024.03.26-20.49.19:726][119]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/CountDown_v7_Auto325B033F44CB31ADDDA752B83FE7BA0D7.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/CountDown_v7_Auto3.uasset'
+[2024.03.26-20.49.19:726][119]LogFileHelpers: Auto-saving content packages took 0.037
+[2024.03.26-21.00.39:682][416]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:/Users/felix/Downloads/BackGroundSound_v2.wav)
+[2024.03.26-21.00.39:750][416]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave BackGroundSound_v2...
+[2024.03.26-21.00.40:462][416]LogAudio: Display: Chunk sizes for SoundWave /Game/SOUNDS/BackGroundSound_v2.BackGroundSound_v2: Chunk0=28 bytes, Chunk1-N=256k
+[2024.03.26-21.00.40:472][416]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave BackGroundSound_v2...
+[2024.03.26-21.00.41:233][499]LogAudio: Display: Chunk sizes for SoundWave /Game/SOUNDS/BackGroundSound_v2.BackGroundSound_v2: Chunk0=28 bytes, Chunk1-N=256k
+[2024.03.26-21.00.51:967][668]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/SOUNDS/BackGroundSound_v2.BackGroundSound_v2
+[2024.03.26-21.01.02:567][908]LogSlate: Window 'BackGroundSound_v2' being destroyed
+[2024.03.26-21.01.11:296][928]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/SOUNDS/CarSound.CarSound
+[2024.03.26-21.01.18:283][740]LogSlate: Window 'CarSound' being destroyed
+[2024.03.26-21.01.26:216][644]BlueprintLog: New page: Compile BP_RaceManager
+[2024.03.26-21.01.26:247][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.03.26-21.01.26:957][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-21.01.27:017][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD_Template/Race/BP_RaceManager" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/GD_Template/Race/BP_RaceManager.uasset" SILENT=true
+[2024.03.26-21.01.27:034][713]LogSavePackage: Moving output files for package: /Game/GD_Template/Race/BP_RaceManager
+[2024.03.26-21.01.27:034][713]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/BP_RaceManagerA52A3EEF40C46E061E8E44A2B9BBD2E7.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/GD_Template/Race/BP_RaceManager.uasset'
+[2024.03.26-21.01.27:039][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 392 ms)
+[2024.03.26-21.01.27:041][713]AssetCheck: New page: Asset Save: BP_RaceManager
+[2024.03.26-21.01.27:041][713]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GD_Template/Race/BP_RaceManager.BP_RaceManager
+[2024.03.26-21.01.28:396][869]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-21.01.28:402][869]LogContentBundle: [TestMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.26-21.01.28:402][869]LogWorldPartition: Display: GenerateStreaming for 'TestMap' started...
+[2024.03.26-21.01.28:407][869]LogWorldPartition: Display: GenerateStreaming for 'TestMap' took 5 ms (total: 103 ms)
+[2024.03.26-21.01.28:407][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-21.01.28:407][869]PIE: New page: PIE session: TestMap (26 mars 2024 à 23:01:28)
+[2024.03.26-21.01.28:431][869]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-21.01.28:806][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.374713s)
+[2024.03.26-21.01.28:806][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.374787s)
+[2024.03.26-21.01.28:815][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.03.26-21.01.28:816][869]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-21.01.28:816][869]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-21.01.28:816][869]LogAIModule: Creating AISystem for world TestMap
+[2024.03.26-21.01.28:817][869]LogWorldPartition: ULevel::OnLevelLoaded(TestMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.26-21.01.28:817][869]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.26-21.01.28:817][869]LogWorldPartition: UWorldPartition::Initialize : World = TestMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.26-21.01.28:817][869]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.26-21.01.28:825][869]LogContentBundle: [TestMap(Standalone)] Creating new contrainer.
+[2024.03.26-21.01.28:825][869]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 2.08 sec)
+[2024.03.26-21.01.28:825][869]LogPlayLevel: PIE: World Init took: (0.010366s)
+[2024.03.26-21.01.28:825][869]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.03.26-21.01.28:825][869]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-21.01.28:825][869]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-21.01.28:825][869]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-21.01.28:825][869]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-21.01.28:825][869]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-21.01.28:826][869]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-21.01.28:826][869]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-21.01.28:826][869]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-21.01.28:826][869]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-21.01.28:826][869]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-21.01.28:826][869]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-21.01.28:828][869]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-21.01.28:839][869]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- High Definition Audio Device)
+[2024.03.26-21.01.28:839][869]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-21.01.28:839][869]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-21.01.28:839][869]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-21.01.28:841][869]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.03.26-21.01.28:841][869]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.03.26-21.01.28:842][869]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.03.26-21.01.28:842][869]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.03.26-21.01.28:842][869]LogInit: FAudioDevice initialized with ID 21.
+[2024.03.26-21.01.28:842][869]LogAudio: Display: Audio Device (ID: 21) registered with world 'TestMap'.
+[2024.03.26-21.01.28:842][869]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.03.26-21.01.28:844][869]LogLoad: Game class is 'GM_TemplateGameMode_C'
+[2024.03.26-21.01.28:855][869]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2024.03.26-22.01.28
+[2024.03.26-21.01.28:856][869]LogWorld: Bringing up level for play took: 0.011782
+[2024.03.26-21.01.28:857][869]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.03.26-21.01.28:858][869]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.26-21.01.28:860][869]LogLevelSequence: Starting new camera cut: 'CineCameraActor_UAID_DC4A3E73C91F15E601_1782349738'
+[2024.03.26-21.01.28:863][869]LogConsoleVariablesEditor: Display: FConsoleVariablesEditorModule::SendMultiUserConsoleVariableChange: Play In Editor is about to start or has started; Multi-User Cvar sync is suspended during PIE.
+[2024.03.26-21.01.28:863][869]r.MotionBlur.Amount = "0"
+[2024.03.26-21.01.28:863][869]PIE: Server logged in
+[2024.03.26-21.01.28:864][869]PIE: Play in editor total start time 0,463 seconds.
+[2024.03.26-21.01.28:875][869]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'BackGroundSound_v2'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.03.26-21.01.36:488][780]LogLevelSequence: Starting new camera cut: 'BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919'
+[2024.03.26-21.01.37:982][959]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-21.01.37:982][959]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_19.BPW_MainHUD_C_0
+[2024.03.26-21.01.39:482][139]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-21.01.39:482][139]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_19.BPW_MainHUD_C_0
+[2024.03.26-21.01.40:982][319]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-21.01.40:982][319]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_19.BPW_MainHUD_C_0
+[2024.03.26-21.01.51:122][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-21.01.51:122][530]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-21.01.51:123][530]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-21.01.51:127][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-21.01.51:128][530]LogContentBundle: [TestMap(Standalone)] Deleting container.
+[2024.03.26-21.01.51:140][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-21.01.51:143][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-21.01.51:156][530]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-21.01.51:156][530]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.03.26-21.01.51:156][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.03.26-21.01.51:158][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.03.26-21.01.51:160][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-21.01.51:166][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.03.26-21.01.51:207][531]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.03.26-21.01.58:436][369]BlueprintLog: New page: Compile BP_RaceManager
+[2024.03.26-21.01.58:465][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.26-21.01.59:187][440]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-21.01.59:192][440]LogContentBundle: [TestMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.26-21.01.59:193][440]LogWorldPartition: Display: GenerateStreaming for 'TestMap' started...
+[2024.03.26-21.01.59:197][440]LogWorldPartition: Display: GenerateStreaming for 'TestMap' took 5 ms (total: 108 ms)
+[2024.03.26-21.01.59:197][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-21.01.59:197][440]PIE: New page: PIE session: TestMap (26 mars 2024 à 23:01:59)
+[2024.03.26-21.01.59:197][440]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-21.01.59:563][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.365775s)
+[2024.03.26-21.01.59:563][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.365802s)
+[2024.03.26-21.01.59:573][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.03.26-21.01.59:575][440]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-21.01.59:575][440]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-21.01.59:575][440]LogAIModule: Creating AISystem for world TestMap
+[2024.03.26-21.01.59:576][440]LogWorldPartition: ULevel::OnLevelLoaded(TestMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.26-21.01.59:576][440]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.26-21.01.59:576][440]LogWorldPartition: UWorldPartition::Initialize : World = TestMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.26-21.01.59:576][440]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.26-21.01.59:585][440]LogContentBundle: [TestMap(Standalone)] Creating new contrainer.
+[2024.03.26-21.01.59:585][440]LogWorldPartition: Display: WorldPartition initialize took 9 ms (total: 2.09 sec)
+[2024.03.26-21.01.59:585][440]LogPlayLevel: PIE: World Init took: (0.010200s)
+[2024.03.26-21.01.59:585][440]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.03.26-21.01.59:585][440]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-21.01.59:585][440]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-21.01.59:585][440]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-21.01.59:585][440]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-21.01.59:585][440]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-21.01.59:585][440]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-21.01.59:585][440]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-21.01.59:585][440]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-21.01.59:585][440]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-21.01.59:585][440]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-21.01.59:585][440]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-21.01.59:587][440]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-21.01.59:596][440]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- High Definition Audio Device)
+[2024.03.26-21.01.59:596][440]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-21.01.59:596][440]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-21.01.59:596][440]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-21.01.59:597][440]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.03.26-21.01.59:597][440]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.03.26-21.01.59:598][440]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.03.26-21.01.59:598][440]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.03.26-21.01.59:598][440]LogInit: FAudioDevice initialized with ID 22.
+[2024.03.26-21.01.59:598][440]LogAudio: Display: Audio Device (ID: 22) registered with world 'TestMap'.
+[2024.03.26-21.01.59:598][440]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.03.26-21.01.59:624][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-21.01.59:627][440]LogConsoleVariablesEditor: Display: FConsoleVariablesEditorModule::SendMultiUserConsoleVariableChange: Play In Editor is about to start or has started; Multi-User Cvar sync is suspended during PIE.
+[2024.03.26-21.01.59:627][440]LogLoad: Game class is 'GM_TemplateGameMode_C'
+[2024.03.26-21.01.59:639][440]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2024.03.26-22.01.59
+[2024.03.26-21.01.59:639][440]LogWorld: Bringing up level for play took: 0.011480
+[2024.03.26-21.01.59:641][440]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.03.26-21.01.59:642][440]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.03.26-21.01.59:642][440]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.26-21.01.59:644][440]LogLevelSequence: Starting new camera cut: 'CineCameraActor_UAID_DC4A3E73C91F15E601_1782349738'
+[2024.03.26-21.01.59:644][440]r.MotionBlur.Amount = "0"
+[2024.03.26-21.01.59:648][440]PIE: Server logged in
+[2024.03.26-21.01.59:650][440]PIE: Play in editor total start time 0,458 seconds.
+[2024.03.26-21.01.59:658][440]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'BackGroundSound_v2'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.03.26-21.01.59:664][440]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.26-21.02.07:268][331]LogLevelSequence: Starting new camera cut: 'BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919'
+[2024.03.26-21.02.08:762][510]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-21.02.08:762][510]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_20.BPW_MainHUD_C_0
+[2024.03.26-21.02.10:263][690]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-21.02.10:263][690]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_20.BPW_MainHUD_C_0
+[2024.03.26-21.02.11:763][870]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-21.02.11:763][870]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_20.BPW_MainHUD_C_0
+[2024.03.26-21.03.28:104][ 28]LogBlueprintUserMessages: [BP_DeathZone_C_UAID_C8D3FFBF910BD1E401_1683335729] BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919
+[2024.03.26-21.03.38:088][225]LogBlueprintUserMessages: [BP_DeathZone_C_UAID_74563C6DEDB7E0E501_2038825411] BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919
+[2024.03.26-21.03.56:114][388]LogBlueprintUserMessages: [BP_DeathZone_C_UAID_C8D3FFBF910BD1E401_1683335729] BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919
+[2024.03.26-21.04.15:742][743]LogBlueprintUserMessages: [BP_DeathZone_C_UAID_C8D3FFBF910BD1E401_1683335729] BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919
+[2024.03.26-21.04.15:742][743]LogBlueprintUserMessages: [BP_DeathZone_C_UAID_C8D3FFBF910BD1E401_1683335729] BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919
+[2024.03.26-21.04.28:817][312]LogBlueprintUserMessages: [BP_DeathZone_C_UAID_C8D3FFBF910BD1E401_1683335729] BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919
+[2024.03.26-21.04.45:886][354]LogBlueprintUserMessages: [BP_DeathZone_C_UAID_C8D3FFBF910BD1E401_1683335729] BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919
+[2024.03.26-21.04.46:591][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-21.04.46:592][434]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-21.04.46:592][434]LogSlate: Window 'Unreal_Template_Cars Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.26-21.04.46:598][434]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-21.04.46:601][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-21.04.46:602][434]LogContentBundle: [TestMap(Standalone)] Deleting container.
+[2024.03.26-21.04.46:614][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-21.04.46:618][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-21.04.46:629][434]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-21.04.46:630][434]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.03.26-21.04.46:630][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.03.26-21.04.46:631][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.03.26-21.04.46:641][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.03.26-21.04.46:741][435]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.03.26-21.04.48:015][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-21.04.48:072][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD_Template/Race/BP_RaceManager" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/GD_Template/Race/BP_RaceManager.uasset" SILENT=true
+[2024.03.26-21.04.48:088][586]LogSavePackage: Moving output files for package: /Game/GD_Template/Race/BP_RaceManager
+[2024.03.26-21.04.48:089][586]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/BP_RaceManager89D1034F44F35C9135DB7386C7EB5CF3.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/GD_Template/Race/BP_RaceManager.uasset'
+[2024.03.26-21.04.48:093][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 470 ms)
+[2024.03.26-21.04.48:094][586]AssetCheck: New page: Asset Save: BP_RaceManager
+[2024.03.26-21.04.48:094][586]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GD_Template/Race/BP_RaceManager.BP_RaceManager
+[2024.03.26-21.05.13:715][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.26-21.05.13:718][767]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/TestMap/8/IA/TV14W8GPNIL1L5UQ74FM46_Auto4
+[2024.03.26-21.05.13:718][767]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/TV14W8GPNIL1L5UQ74FM46_Auto4B36B640241774A034185A8ADDAC6519C.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/__ExternalActors__/Maps/TestMap/8/IA/TV14W8GPNIL1L5UQ74FM46_Auto4.uasset'
+[2024.03.26-21.05.13:720][767]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap' took 0.018
+[2024.03.26-21.05.13:720][767]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.018
+[2024.03.26-21.05.13:720][767]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SOUNDS/CarSound] ([1] browsable assets)...
+[2024.03.26-21.05.13:723][767]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/SOUNDS/CarSound.CarSound]
+[2024.03.26-21.05.13:723][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/SOUNDS/CarSound]
+[2024.03.26-21.05.13:723][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/CarSound" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/CarSound_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.03.26-21.05.13:731][767]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SOUNDS/CarSound_Auto4
+[2024.03.26-21.05.13:731][767]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/CarSound_Auto4FF4483794181CCDC873F9EAB073739E8.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/CarSound_Auto4.uasset'
+[2024.03.26-21.05.13:732][767]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SOUNDS/BackGroundSound_v2] ([1] browsable assets)...
+[2024.03.26-21.05.13:747][767]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/SOUNDS/BackGroundSound_v2.BackGroundSound_v2]
+[2024.03.26-21.05.13:747][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/SOUNDS/BackGroundSound_v2]
+[2024.03.26-21.05.13:747][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/BackGroundSound_v2" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/BackGroundSound_v2_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.03.26-21.05.13:785][767]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SOUNDS/BackGroundSound_v2_Auto4
+[2024.03.26-21.05.13:785][767]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/BackGroundSound_v2_Auto431C4379040091BAE10CC038F95A5CD15.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Autosaves/Game/SOUNDS/BackGroundSound_v2_Auto4.uasset'
+[2024.03.26-21.05.13:786][767]LogFileHelpers: Auto-saving content packages took 0.066
+[2024.03.26-21.06.06:040][192]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:/Users/felix/Downloads/BackGroundSound_v3.wav)
+[2024.03.26-21.06.13:217][192]LogSlate: Window 'Message' being destroyed
+[2024.03.26-21.06.13:220][192]Message dialog closed, result: No, title: Message, text: Use the selected Sound Wave 'CarSound' in the Content Browser as a template for sound(s) being imported?
+[2024.03.26-21.06.13:281][192]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave BackGroundSound_v3...
+[2024.03.26-21.06.13:962][192]LogAudio: Display: Chunk sizes for SoundWave /Game/SOUNDS/BackGroundSound_v3.BackGroundSound_v3: Chunk0=28 bytes, Chunk1-N=256k
+[2024.03.26-21.06.13:971][192]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave BackGroundSound_v3...
+[2024.03.26-21.06.13:990][193]LogAutomationController: Ignoring very large delta of 9.24 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.26-21.06.14:686][252]LogAudio: Display: Chunk sizes for SoundWave /Game/SOUNDS/BackGroundSound_v3.BackGroundSound_v3: Chunk0=28 bytes, Chunk1-N=256k
+[2024.03.26-21.06.24:083][260]BlueprintLog: New page: Compile BP_RaceManager
+[2024.03.26-21.06.24:110][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.03.26-21.06.25:974][458]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-21.06.25:979][458]LogContentBundle: [TestMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.26-21.06.25:979][458]LogWorldPartition: Display: GenerateStreaming for 'TestMap' started...
+[2024.03.26-21.06.25:984][458]LogWorldPartition: Display: GenerateStreaming for 'TestMap' took 5 ms (total: 113 ms)
+[2024.03.26-21.06.25:984][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-21.06.25:984][458]PIE: New page: PIE session: TestMap (26 mars 2024 à 23:06:25)
+[2024.03.26-21.06.25:985][458]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-21.06.26:357][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.372906s)
+[2024.03.26-21.06.26:357][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.372934s)
+[2024.03.26-21.06.26:366][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.03.26-21.06.26:368][458]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-21.06.26:368][458]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-21.06.26:368][458]LogAIModule: Creating AISystem for world TestMap
+[2024.03.26-21.06.26:369][458]LogWorldPartition: ULevel::OnLevelLoaded(TestMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.26-21.06.26:369][458]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.26-21.06.26:369][458]LogWorldPartition: UWorldPartition::Initialize : World = TestMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.26-21.06.26:369][458]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.26-21.06.26:378][458]LogContentBundle: [TestMap(Standalone)] Creating new contrainer.
+[2024.03.26-21.06.26:378][458]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 2.09 sec)
+[2024.03.26-21.06.26:378][458]LogPlayLevel: PIE: World Init took: (0.009956s)
+[2024.03.26-21.06.26:378][458]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.03.26-21.06.26:378][458]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-21.06.26:378][458]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-21.06.26:378][458]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-21.06.26:378][458]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-21.06.26:378][458]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-21.06.26:378][458]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-21.06.26:378][458]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-21.06.26:378][458]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-21.06.26:378][458]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-21.06.26:378][458]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-21.06.26:378][458]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-21.06.26:380][458]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-21.06.26:390][458]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- High Definition Audio Device)
+[2024.03.26-21.06.26:390][458]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-21.06.26:390][458]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-21.06.26:390][458]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-21.06.26:391][458]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.03.26-21.06.26:391][458]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.03.26-21.06.26:392][458]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.03.26-21.06.26:392][458]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.03.26-21.06.26:392][458]LogInit: FAudioDevice initialized with ID 23.
+[2024.03.26-21.06.26:392][458]LogAudio: Display: Audio Device (ID: 23) registered with world 'TestMap'.
+[2024.03.26-21.06.26:392][458]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.03.26-21.06.26:395][458]LogLoad: Game class is 'GM_TemplateGameMode_C'
+[2024.03.26-21.06.26:406][458]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2024.03.26-22.06.26
+[2024.03.26-21.06.26:406][458]LogWorld: Bringing up level for play took: 0.011375
+[2024.03.26-21.06.26:408][458]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.03.26-21.06.26:408][458]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.26-21.06.26:411][458]LogLevelSequence: Starting new camera cut: 'CineCameraActor_UAID_DC4A3E73C91F15E601_1782349738'
+[2024.03.26-21.06.26:413][458]LogConsoleVariablesEditor: Display: FConsoleVariablesEditorModule::SendMultiUserConsoleVariableChange: Play In Editor is about to start or has started; Multi-User Cvar sync is suspended during PIE.
+[2024.03.26-21.06.26:413][458]r.MotionBlur.Amount = "0"
+[2024.03.26-21.06.26:414][458]PIE: Server logged in
+[2024.03.26-21.06.26:415][458]PIE: Play in editor total start time 0,436 seconds.
+[2024.03.26-21.06.34:036][369]LogLevelSequence: Starting new camera cut: 'BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919'
+[2024.03.26-21.06.35:530][548]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-21.06.35:530][548]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.BPW_MainHUD_C_0
+[2024.03.26-21.06.37:029][728]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-21.06.37:030][728]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.BPW_MainHUD_C_0
+[2024.03.26-21.06.38:529][908]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Sounds_Go' of length 1 in '/Game/GD_Template/Blueprints/UI/BPW_MainHUD.BPW_MainHUD_C'!
+[2024.03.26-21.06.38:529][908]LogScript: Warning: Script Msg called by: BPW_MainHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.BPW_MainHUD_C_0
+[2024.03.26-21.08.10:054][890]LogBlueprintUserMessages: [BP_DeathZone_C_UAID_C8D3FFBF910BD1E401_1683335729] BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919
+[2024.03.26-21.08.10:054][890]LogBlueprintUserMessages: [BP_DeathZone_C_UAID_C8D3FFBF910BD1E401_1683335729] BP_CustomPlayerVehicule_C_UAID_DC4A3E73C91F27E601_1680656919
+[2024.03.26-21.08.18:421][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-21.08.18:421][889]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2024.03.26-21.08.18:422][889]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-21.08.18:426][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-21.08.18:426][889]LogContentBundle: [TestMap(Standalone)] Deleting container.
+[2024.03.26-21.08.18:439][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-21.08.18:442][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-21.08.18:453][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-21.08.18:454][889]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.03.26-21.08.18:454][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.03.26-21.08.18:455][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.03.26-21.08.18:464][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.03.26-21.08.18:505][890]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.03.26-21.08.48:213][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-21.08.48:259][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/TestMap/1/ZE/Q0YMSBBM1E9LANOXNGYA60
+[2024.03.26-21.08.48:259][403]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/Q0YMSBBM1E9LANOXNGYA6027EE4B134B3102C9CF91678D91C29012.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/__ExternalActors__/Maps/TestMap/1/ZE/Q0YMSBBM1E9LANOXNGYA60.uasset'
+[2024.03.26-21.08.48:262][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/TestMap/8/IA/TV14W8GPNIL1L5UQ74FM46
+[2024.03.26-21.08.48:262][403]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/TV14W8GPNIL1L5UQ74FM46CCE204C849F9F53378EA688EB7990DD6.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/__ExternalActors__/Maps/TestMap/8/IA/TV14W8GPNIL1L5UQ74FM46.uasset'
+[2024.03.26-21.08.48:268][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 525 ms)
+[2024.03.26-21.08.48:278][403]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.26-21.08.48:278][403]LogContentValidation: Display: Validating /Game/GD_Template/Blueprints/BP_Booster.BP_Booster_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Booster_C_UAID_74563C6DEDB7E1E501_1273178590
+[2024.03.26-21.08.48:278][403]LogContentValidation: Display: Validating /Game/GD_Template/Race/BP_RaceManager.BP_RaceManager_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_RaceManager_C_UAID_DC4A3E73C91FD3E501_1306819123
+[2024.03.26-21.08.50:738][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.03.26-21.08.50:743][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-21.08.50:791][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD_Template/Race/BP_RaceManager" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/GD_Template/Race/BP_RaceManager.uasset" SILENT=true
+[2024.03.26-21.08.50:806][682]LogSavePackage: Moving output files for package: /Game/GD_Template/Race/BP_RaceManager
+[2024.03.26-21.08.50:807][682]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/BP_RaceManagerA05D0CCB4707C48CD48D529C3C334405.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/GD_Template/Race/BP_RaceManager.uasset'
+[2024.03.26-21.08.50:807][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/CarSound" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/SOUNDS/CarSound.uasset" SILENT=true
+[2024.03.26-21.08.50:815][682]LogSavePackage: Moving output files for package: /Game/SOUNDS/CarSound
+[2024.03.26-21.08.50:815][682]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/CarSoundA994D0CE4B72F512DB0D5695DAEFA378.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/SOUNDS/CarSound.uasset'
+[2024.03.26-21.08.50:817][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/BackgroundSound" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/SOUNDS/BackgroundSound.uasset" SILENT=true
+[2024.03.26-21.08.50:852][682]LogSavePackage: Moving output files for package: /Game/SOUNDS/BackgroundSound
+[2024.03.26-21.08.50:852][682]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/BackgroundSound7F15FFC842FD9337E52D1EBE0A55BE17.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/SOUNDS/BackgroundSound.uasset'
+[2024.03.26-21.08.50:853][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/CountDown_v2" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/SOUNDS/CountDown_v2.uasset" SILENT=true
+[2024.03.26-21.08.50:856][682]LogSavePackage: Moving output files for package: /Game/SOUNDS/CountDown_v2
+[2024.03.26-21.08.50:856][682]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/CountDown_v27DA66B6E4A7DC1FF4A9A718C7DAA1079.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/SOUNDS/CountDown_v2.uasset'
+[2024.03.26-21.08.50:857][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/CountDown_v3" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/SOUNDS/CountDown_v3.uasset" SILENT=true
+[2024.03.26-21.08.50:859][682]LogSavePackage: Moving output files for package: /Game/SOUNDS/CountDown_v3
+[2024.03.26-21.08.50:859][682]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/CountDown_v3331733A94F9B377177A5BC82BD57CC30.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/SOUNDS/CountDown_v3.uasset'
+[2024.03.26-21.08.50:860][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/CountDown_v4" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/SOUNDS/CountDown_v4.uasset" SILENT=true
+[2024.03.26-21.08.50:864][682]LogSavePackage: Moving output files for package: /Game/SOUNDS/CountDown_v4
+[2024.03.26-21.08.50:864][682]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/CountDown_v40500C4624658B01C4C6D8E9A7333CBD9.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/SOUNDS/CountDown_v4.uasset'
+[2024.03.26-21.08.50:865][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/CountDown_v5" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/SOUNDS/CountDown_v5.uasset" SILENT=true
+[2024.03.26-21.08.50:868][682]LogSavePackage: Moving output files for package: /Game/SOUNDS/CountDown_v5
+[2024.03.26-21.08.50:868][682]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/CountDown_v555552C434A49AF6D094501813C57565F.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/SOUNDS/CountDown_v5.uasset'
+[2024.03.26-21.08.50:868][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/CountDown_v6" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/SOUNDS/CountDown_v6.uasset" SILENT=true
+[2024.03.26-21.08.50:872][682]LogSavePackage: Moving output files for package: /Game/SOUNDS/CountDown_v6
+[2024.03.26-21.08.50:872][682]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/CountDown_v656A20BC94D44514FBB70288B96B24E32.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/SOUNDS/CountDown_v6.uasset'
+[2024.03.26-21.08.50:873][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/CountDown_v7" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/SOUNDS/CountDown_v7.uasset" SILENT=true
+[2024.03.26-21.08.50:875][682]LogSavePackage: Moving output files for package: /Game/SOUNDS/CountDown_v7
+[2024.03.26-21.08.50:875][682]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/CountDown_v7E714A7EE42E21FD6715DB5BA6305FC3A.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/SOUNDS/CountDown_v7.uasset'
+[2024.03.26-21.08.50:876][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/BackGroundSound_v2" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/SOUNDS/BackGroundSound_v2.uasset" SILENT=true
+[2024.03.26-21.08.50:915][682]LogSavePackage: Moving output files for package: /Game/SOUNDS/BackGroundSound_v2
+[2024.03.26-21.08.50:915][682]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/BackGroundSound_v20052260F4A9DF427121070A54CBA9E4A.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/SOUNDS/BackGroundSound_v2.uasset'
+[2024.03.26-21.08.50:932][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SOUNDS/BackGroundSound_v3" FILE="C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/SOUNDS/BackGroundSound_v3.uasset" SILENT=true
+[2024.03.26-21.08.50:969][682]LogSavePackage: Moving output files for package: /Game/SOUNDS/BackGroundSound_v3
+[2024.03.26-21.08.50:969][682]LogSavePackage: Moving 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Saved/BackGroundSound_v3D88948A743039DA142341590066C17D1.tmp' to 'C:/Users/felix/Documents/GitHub/WS_DuneGame/Content/SOUNDS/BackGroundSound_v3.uasset'
+[2024.03.26-21.08.50:976][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 232 ms (total: 758 ms)
+[2024.03.26-21.08.50:979][682]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.26-21.08.50:979][682]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GD_Template/Race/BP_RaceManager.BP_RaceManager
+[2024.03.26-21.08.50:979][682]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/SOUNDS/CarSound.CarSound
+[2024.03.26-21.08.50:979][682]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/SOUNDS/BackgroundSound.BackgroundSound
+[2024.03.26-21.08.50:979][682]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/SOUNDS/CountDown_v2.CountDown_v2
+[2024.03.26-21.08.50:979][682]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/SOUNDS/CountDown_v3.CountDown_v3
+[2024.03.26-21.08.50:979][682]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/SOUNDS/CountDown_v4.CountDown_v4
+[2024.03.26-21.08.50:979][682]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/SOUNDS/CountDown_v5.CountDown_v5
+[2024.03.26-21.08.50:979][682]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/SOUNDS/CountDown_v6.CountDown_v6
+[2024.03.26-21.08.50:979][682]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/SOUNDS/CountDown_v7.CountDown_v7
+[2024.03.26-21.08.50:979][682]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/SOUNDS/BackGroundSound_v2.BackGroundSound_v2
+[2024.03.26-21.08.50:979][682]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/SOUNDS/BackGroundSound_v3.BackGroundSound_v3
+[2024.03.26-21.08.51:731][768]LogDerivedDataCache: C:/Users/felix/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.114 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5533 files in 7179 folders with total size 1125 MiB.
